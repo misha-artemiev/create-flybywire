@@ -1,0 +1,13 @@
+name = "Create: FlyByWire"
+author = "Misha Artemiev"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "490d36c9f88272c25a93406d1cf8f8a4ebca3389d295429cb16a6827fabd93d3"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.229"
