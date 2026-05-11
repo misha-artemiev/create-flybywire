@@ -11,7 +11,7 @@ We've put together a fun, engineering-focused sandbox where you can build anythi
 *   **Epic Mountains:** The world generation is highly mountainous. making flight the absolute best way to explore, expand and combat.
 
 ### Why You Should Play
-If you love the *Create* mod but are tired of staying on the ground, this is the pack for you. Because the world is full of giant mountains, you'll actually *need* to fly to get around and transport resources. It's incredibly satisfying to design a working plane, program it to fly across a mountain range, and watch it deliver items to your base all on its own. 
+If you love the Create mod but are tired of staying on the ground, this is the pack for you. Because the world is full of giant mountains, you'll actually *need* to fly to get around and transport resources. It's incredibly satisfying to design a working plane, program it to fly across a mountain range, and watch it deliver items to your base all on its own. 
 
 ### Heads Up Before You Download!
 *   **Watch your flying!** We have **collision damage** turned on. If you crash your beautiful new airship into the side of a mountain, your ship (and you) are going to take damage. Fly carefully!
