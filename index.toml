@@ -5,6 +5,11 @@ file = "README.md"
 hash = "7d85e3fcc5d070bb62f2d03789bd5c3b1fcdd296719539446f696a097ddc7c51"
 
 [[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "7c3b1f4819e8a3b88cadd8ed968d74491c71f504738dd0f2cd60f3ff40d80f72"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "d18f00631377bb11109c6cf3c67261aeedec73e79727e50019e91a913ec88183"
 metafile = true
