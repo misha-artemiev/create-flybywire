@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Justfile"
+hash = "c437ea8edc64805995af34300fdbca3e2b880be747e9ec3e435203d332376a92"
+
+[[files]]
 file = "README.md"
 hash = "7d85e3fcc5d070bb62f2d03789bd5c3b1fcdd296719539446f696a097ddc7c51"
 
