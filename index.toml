@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "Justfile"
-hash = "c437ea8edc64805995af34300fdbca3e2b880be747e9ec3e435203d332376a92"
+hash = "bd0664f667a30e39b0bdb57f1a63ae07bcd1fd3185495c3f249fc14ffe45261f"
 
 [[files]]
 file = "README.md"
@@ -11,6 +11,11 @@ hash = "5b5424599bc353eea4e3b7bc2f16482267f859b8d74d06f4b38089a0385539da"
 [[files]]
 file = "mods/aero_cam_sync.pw.toml"
 hash = "87a042e342be9cc2c2ce9fa4f728fa0f93fa290c5b078ec620e6e8dcfae68741"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
 
 [[files]]
@@ -114,8 +119,18 @@ hash = "b5bbbdef134fb735d4a741ccb85b46c6b1707e8e974a09bdcc1dcd785c0f172e"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
 file = "mods/gears-n-kinetics.pw.toml"
 hash = "ca9a6e860a062bf02cdc222775e8adaa2c0d9a38891464eeb55a12eecef69ce4"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
 metafile = true
 
 [[files]]
