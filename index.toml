@@ -39,6 +39,11 @@ hash = "1535959dee48f58307549a024eb101618eeafe54fdee514a73a6d657d98a39e8"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
 metafile = true
@@ -64,6 +69,11 @@ hash = "12329706d9720921132457af6ccbef816018b850fbc7dbc9b53d983bce913592"
 metafile = true
 
 [[files]]
+file = "mods/create-more-parallel-pipes.pw.toml"
+hash = "fe642f391d1da67b5308987fb8ed3f4e1914d92bb181d8c05c6f5635e886b635"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "703c2d475167e08d77254c8944e2971899603cce61e4c87f870095386c725c74"
 metafile = true
@@ -84,6 +94,11 @@ hash = "dfbb2a077b144492f48af0255906b146d56011ccb6c6f6e343bab703e8cc0f79"
 metafile = true
 
 [[files]]
+file = "mods/create-transmission!.pw.toml"
+hash = "7e0ebe1712b52906dd37f9b75d73d5f841d9a8407b0214876881d659172aa772"
+metafile = true
+
+[[files]]
 file = "mods/create-tweaked-controllers.pw.toml"
 hash = "2c72104b4cf249d4f096f673293a41c199d611dc9b99a9055d463fa5cd90c7cd"
 metafile = true
@@ -91,6 +106,21 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "b5bbbdef134fb735d4a741ccb85b46c6b1707e8e974a09bdcc1dcd785c0f172e"
+metafile = true
+
+[[files]]
+file = "mods/gears-n-kinetics.pw.toml"
+hash = "ca9a6e860a062bf02cdc222775e8adaa2c0d9a38891464eeb55a12eecef69ce4"
+metafile = true
+
+[[files]]
+file = "mods/interiors.pw.toml"
+hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
 metafile = true
 
 [[files]]
@@ -121,6 +151,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/vs-hose-connectors.pw.toml"
+hash = "0beacfea53e3c4ceb9403be8ab7f993201263c2d9de6d4c340a48b930bc69d01"
 metafile = true
 
 [[files]]
