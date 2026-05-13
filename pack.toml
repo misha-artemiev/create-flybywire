@@ -1,12 +1,12 @@
 name = "Create: FlyByWire"
 author = "Misha Artemiev"
-version = "0.3.0"
+version = "0.4.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "567f3e0ce73c647ac41f87e9c11f0f4149be54771b0a1ad8bac9aab860be525c"
+hash = "49e8c01fe721131578966180f873f38f036acd90a14e58b0290dd789ec762a85"
 
 [versions]
 minecraft = "1.21.1"
