@@ -149,6 +149,11 @@ hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "367ce13ba351f3f6302f13e0271be1cdb8780df130ee41ad53e2539efd90ea36"
+metafile = true
+
+[[files]]
 file = "mods/power-grid.pw.toml"
 hash = "1c5522db3b8327e889b0ec6fe8569c4f864b8515a5f1cf439c4bae86a86234e2"
 metafile = true
@@ -171,6 +176,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "cd5c8c1f6183f5c2ca899daed14f272890566002dfcb2d9f9a59dfbfac0bc8f6"
 metafile = true
 
 [[files]]
