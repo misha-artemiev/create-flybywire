@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "eaaacd5e9e505fe7197639db3f2c9c870a4e7e9b01ee7e6f17cbaefb09f81478"
+hash = "381fa439c15498a2befdd26368e7cf18d9cdf304a158148e40cf42b71b16b442"
 metafile = true
 
 [[files]]
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "b5bbbdef134fb735d4a741ccb85b46c6b1707e8e974a09bdcc1dcd785c0f172e"
+hash = "5b529724427fd8b04538c2f49cc8f9b38de49fe46218eb9e07f955f5725d727a"
 metafile = true
 
 [[files]]
