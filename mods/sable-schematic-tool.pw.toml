@@ -1,0 +1,13 @@
+name = "Sable Schematic Tool"
+filename = "sable-schematic-api-0.2.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hNGBYvQN/versions/iJvX7nRZ/sable-schematic-api-0.2.6.jar"
+hash-format = "sha512"
+hash = "98f18c6c0d39b3def00f74865ed9db7c5a234cabbfbd1aab87592ace90c12c201337e69c6fe08cb3e4a3b77ef91ef92adfea2d70701cc3008993701d50a6fbdf"
+
+[update]
+[update.modrinth]
+mod-id = "hNGBYvQN"
+version = "iJvX7nRZ"
