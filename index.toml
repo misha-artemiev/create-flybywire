@@ -174,11 +174,6 @@ hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
 metafile = true
 
 [[files]]
-file = "mods/sable-(create-aeronautics)-collision-damage.pw.toml"
-hash = "29fdbd5c9fc8183982036b090e52da87153451cdf24682e72b2eb99b67a59158"
-metafile = true
-
-[[files]]
 file = "mods/sable.pw.toml"
 hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
 metafile = true
