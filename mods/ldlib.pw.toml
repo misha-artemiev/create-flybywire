@@ -1,13 +1,13 @@
 name = "LDLib"
-filename = "ldlib2-neoforge-1.21.1-2.2.8-all.jar"
+filename = "ldlib2-neoforge-1.21.1-2.2.9-all.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/B1CBVXHX/versions/xmPYPfWU/ldlib2-neoforge-1.21.1-2.2.8-all.jar"
+url = "https://cdn.modrinth.com/data/B1CBVXHX/versions/Yb7yzCBG/ldlib2-neoforge-1.21.1-2.2.9-all.jar"
 hash-format = "sha512"
-hash = "68a8f82a14290bcfdc7fa2b829914044522c26547b5dfa29d0f1d357df99f2846d7cb616e284621740d8c8eb0f3f006827a166ef32b9ee1e208223c4f327562f"
+hash = "7ad5efb3fa925cd50f26d3a7f364d95d14aa20aed24d366e89837d8acbce1f533ff0804af1a03398035fe0f727448b206b466148888d6590ca13c02dbb298e19"
 
 [update]
 [update.modrinth]
 mod-id = "B1CBVXHX"
-version = "xmPYPfWU"
+version = "Yb7yzCBG"

@@ -35,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "d18f00631377bb11109c6cf3c67261aeedec73e79727e50019e91a913ec88183"
+hash = "209446eb003bb59111833db0e0328657a9ffe7d85d6016ddf3ecfd5a2f7e13c5"
 metafile = true
 
 [[files]]
@@ -74,13 +74,18 @@ hash = "47a456dc38c5bfa9604ad2ecb0627cf5271132a022fc0867b6059f92e841203d"
 metafile = true
 
 [[files]]
+file = "mods/create-compact_transmission.pw.toml"
+hash = "a07200d23181cde8069f0c806ce42c94f096d5fd8c472684e19b21716f459da9"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "a548a99f9d9ba0d237aaf64acee67b29271d05a40c1c3ef87bc1bc18267c640c"
 metafile = true
 
 [[files]]
 file = "mods/create-linear-motion-simulated.pw.toml"
-hash = "a3e223705ea595b3b81f5b06f0e2e6a32285860fe735d19322ff9e2fe344f880"
+hash = "fac3ac654ccc3f778b1689baa9c806cd1ce3a79fc0d319073259ecf46078cdaa"
 metafile = true
 
 [[files]]
@@ -100,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
-hash = "9471f671a99e870db23fec3b1800a6a3dd89d2d5c4e67e0da50165cd7bd719ef"
+hash = "b3adf7e1a518ce4e49332c3d5855d5c9cdc4ff10a31dc652e5daa85d8f33a619"
 metafile = true
 
 [[files]]
@@ -110,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails-1.21.1.pw.toml"
-hash = "104581a7f2a0b1c164399d278675f68701a2147db5a895188298e049d14dcea9"
+hash = "7c9a7c6b0ba555d29cdff0c2874dfee7d1cd7807f084fcf08b3820b382dc3cb8"
 metafile = true
 
 [[files]]
@@ -165,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/ldlib.pw.toml"
-hash = "c1d1d67f2b3924a3f2694af3206b425d2f88a04853010f98a99953d5894047a6"
+hash = "18d7b952d219a370f2832ab884ce3f7ec2b80e928b91b50cf3920e9a0c2ada20"
 metafile = true
 
 [[files]]
@@ -175,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "bc2d592dc0107406f3564f968daf6b84d9379cdb66997305855ae68886fd5502"
+hash = "3f1fe26d26eaf43c0d7916ee8f8cdf7714a478fc6e09883e931a1f354a6532f0"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Create : Linear Motion Simulated"
-filename = "create_linear_motion_simulated-1.1.0.jar"
+filename = "create_linear_motion_simulated-0.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/RsyMniH0/versions/SGLLRCxB/create_linear_motion_simulated-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/RsyMniH0/versions/GL4JPwH8/create_linear_motion_simulated-0.2.1.jar"
 hash-format = "sha512"
-hash = "6148cd86d6b25ba8837cd887f48f70bf529d8a7de059c5e518734f3ec9559424510279d6856b1600b8a08860eb3a0fd5148b0aa74d39c8a281366a735d602681"
+hash = "9e51e0add6ed6f3a38454c644e368d070a7e7ccbeff53ac45d161a20dc27cdf3b08f631081d638d79217180853b88283136592e5befdf4dd84ec11056d4cf162"
 
 [update]
 [update.modrinth]
 mod-id = "RsyMniH0"
-version = "SGLLRCxB"
+version = "GL4JPwH8"
