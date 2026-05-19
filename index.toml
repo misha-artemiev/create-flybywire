@@ -84,11 +84,6 @@ hash = "a548a99f9d9ba0d237aaf64acee67b29271d05a40c1c3ef87bc1bc18267c640c"
 metafile = true
 
 [[files]]
-file = "mods/create-linear-motion-simulated.pw.toml"
-hash = "fac3ac654ccc3f778b1689baa9c806cd1ce3a79fc0d319073259ecf46078cdaa"
-metafile = true
-
-[[files]]
 file = "mods/create-more-linked-remote.pw.toml"
 hash = "12329706d9720921132457af6ccbef816018b850fbc7dbc9b53d983bce913592"
 metafile = true
