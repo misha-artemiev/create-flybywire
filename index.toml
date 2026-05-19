@@ -74,11 +74,6 @@ hash = "47a456dc38c5bfa9604ad2ecb0627cf5271132a022fc0867b6059f92e841203d"
 metafile = true
 
 [[files]]
-file = "mods/create-compact_transmission.pw.toml"
-hash = "a07200d23181cde8069f0c806ce42c94f096d5fd8c472684e19b21716f459da9"
-metafile = true
-
-[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "a548a99f9d9ba0d237aaf64acee67b29271d05a40c1c3ef87bc1bc18267c640c"
 metafile = true
