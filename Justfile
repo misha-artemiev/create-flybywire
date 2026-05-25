@@ -13,7 +13,7 @@ refresh:
 	@packwiz --pack-file modpack/pack.toml refresh
 
 list:
-	@packwiz --packfile modpack/pack.toml list --version
+	@packwiz --pack-file modpack/pack.toml list --version
 
 update:
-	@packwiz --packfile modpack/pack.toml update --all
+	@packwiz --pack-file modpack/pack.toml update --all
