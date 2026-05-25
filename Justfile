@@ -7,13 +7,13 @@ _default:
 	@just --list
 
 export:
-	@packwiz modrinth export
+	@packwiz --pack-file modpack/pack.toml modrinth export
 
 refresh:
-	@packwiz refresh
+	@packwiz --pack-file modpack/pack.toml refresh
 
 list:
-	@packwiz list --version
+	@packwiz --packfile modpack/pack.toml list --version
 
 update:
-	@packwiz update --all
+	@packwiz --packfile modpack/pack.toml update --all

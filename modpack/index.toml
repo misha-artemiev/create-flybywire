@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Justfile"
-hash = "bd0664f667a30e39b0bdb57f1a63ae07bcd1fd3185495c3f249fc14ffe45261f"
-
-[[files]]
-file = "README.md"
-hash = "5b5424599bc353eea4e3b7bc2f16482267f859b8d74d06f4b38089a0385539da"
-
-[[files]]
 file = "mods/aero_cam_sync.pw.toml"
 hash = "87a042e342be9cc2c2ce9fa4f728fa0f93fa290c5b078ec620e6e8dcfae68741"
 metafile = true
