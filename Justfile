@@ -2,18 +2,24 @@ alias e := export
 alias r := refresh
 alias l := list
 alias u := update
+alias mi := modrinth-install
+
+set working-directory := 'modpack'
 
 _default:
 	@just --list
 
 export:
-	@packwiz --pack-file modpack/pack.toml modrinth export
+	@packwiz modrinth export
 
 refresh:
-	@packwiz --pack-file modpack/pack.toml refresh
+	@packwiz modpack/pack.toml refresh
 
 list:
-	@packwiz --pack-file modpack/pack.toml list --version
+	@packwiz list --version
 
 update:
-	@packwiz --pack-file modpack/pack.toml update --all
+	@packwiz update --all
+
+modrinth-install MOD_NAME:
+	@packwiz modrinth install {{MOD_NAME}}
