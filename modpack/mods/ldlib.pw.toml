@@ -1,0 +1,13 @@
+name = "LDLib"
+filename = "ldlib2-neoforge-1.21.1-2.2.32-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/B1CBVXHX/versions/E6C1Enuh/ldlib2-neoforge-1.21.1-2.2.32-all.jar"
+hash-format = "sha512"
+hash = "24c5bc61f68fc0f05129d02cd7b2b200def9482be2f59bf7e5251a0d417e00e523e9ce6fbd2c44d98f4792d916c620b22dca49822b249c7bad195e8c04f47bc1"
+
+[update]
+[update.modrinth]
+mod-id = "B1CBVXHX"
+version = "E6C1Enuh"
