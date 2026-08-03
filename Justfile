@@ -1,4 +1,4 @@
-alias e := export
+alias e := modrinth-export
 alias r := refresh
 alias l := list
 alias u := update
@@ -9,11 +9,11 @@ set working-directory := 'modpack'
 _default:
 	@just --list
 
-export:
+modrinth-export:
 	@packwiz modrinth export
 
 refresh:
-	@packwiz modpack/pack.toml refresh
+	@packwiz refresh
 
 list:
 	@packwiz list --version
