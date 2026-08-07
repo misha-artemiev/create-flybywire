@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-toolgun.pw.toml"
-hash = "bdd4a0cccfcd1268f0096748aa22c133d4b6f80960e3180baf12b3f5765cd7b4"
+hash = "0cd410edccfed5e349d7d9ed02bce16e656f18f8aedd79030829289377726183"
 metafile = true
 
 [[files]]
@@ -67,12 +67,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeroworks.pw.toml"
-hash = "d6a416c2c87e593a23bbc79856079a4e6bd3875c2f020a557c3b2011438dd178"
+hash = "8bc79b14b3fa74bbb49550cf543a1f4b6303e8e09c1f73125a022783e9d02711"
 metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "a0e9ff95570cd9af3374ca8b44aa095447baf94e565f46ae99819d52a9b48dc1"
+metafile = true
+
+[[files]]
+file = "mods/create-cosmonatics.pw.toml"
+hash = "40b211edffc1aa1ec5833deebb9f7f7a699c2866f4c22b08bfdfbfb5a8d307d8"
 metafile = true
 
 [[files]]
@@ -142,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/ldlib.pw.toml"
-hash = "7e7484c4f282110069130e40127d177f8419e13407cf5e5a03954db05580cfab"
+hash = "a3651388ceed0df0eada7fb15cf453c48fe51e280542a7a874286349263f4984"
 metafile = true
 
 [[files]]
@@ -177,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9cff55b64b62831e1be78c469b6758829f9d15016c6b12ea2d5103c3263f510e"
+hash = "8b237735f64f339d35d40eaceb76cdf137fd05a49b452d2a8c3434cada762e11"
 metafile = true
 
 [[files]]
