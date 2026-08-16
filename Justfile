@@ -12,8 +12,7 @@ _default:
 	@just --list
 
 modrinth-export:
-    @mkdir -p dist
-    @packwiz modrinth export --outpout ../dist
+    @packwiz modrinth export
 
 refresh:
     @packwiz refresh
