@@ -1,4 +1,4 @@
-alias e := modrinth-export
+alias me := modrinth-export
 alias r := refresh
 alias l := list
 alias lf := list-files
