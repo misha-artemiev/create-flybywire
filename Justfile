@@ -31,3 +31,6 @@ modrinth-install MOD_NAME:
 
 remove MOD_NAME:
     @packwiz rm {{MOD_NAME}}
+
+mod-list:
+    @python ../scripts/modlist.py
