@@ -12,22 +12,23 @@ _default:
 	@just --list
 
 modrinth-export:
-	@packwiz modrinth export
+    @mkdir -p dist
+    @packwiz modrinth export --outpout ../dist
 
 refresh:
-	@packwiz refresh
+    @packwiz refresh
 
 list:
-	@packwiz list --version
+    @packwiz list --version
 
 list-files:
     @ls mods
 
 update:
-	@packwiz update --all
+    @packwiz update --all
 
 modrinth-install MOD_NAME:
-	@packwiz modrinth install {{MOD_NAME}}
+    @packwiz modrinth install {{MOD_NAME}}
 
 remove MOD_NAME:
     @packwiz rm {{MOD_NAME}}
