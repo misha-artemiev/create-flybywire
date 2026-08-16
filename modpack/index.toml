@@ -11,13 +11,28 @@ hash = "e42363c32c9b6323eea977283c928cec373bfc415534ec92e9c3367ee8c54256"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-gadgets-and-gizmos.pw.toml"
+hash = "1a6533f2dfb54f7e4ce86c528fd43b84620b5a7044e10f94eabbdf65d85b887c"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-toolgun.pw.toml"
 hash = "d6d6330bdb60bc2746b957082749f9a8aea926cf7ca333cf8126ffd0414215ec"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-transmission-linkage.pw.toml"
+hash = "aabc3d94ea527039798baa69d7c381cb679afa63f2d842c5357bb8d186792e5b"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "5fab8d2e412683dfd72f08cf6750e51b03cb43192e8eb783e962ba28d20978bc"
+metafile = true
+
+[[files]]
+file = "mods/create-avionics.pw.toml"
+hash = "09c4a6ed0968780cedfb90be7d72d9e5b7fe179b3fc289f1427dbba0a5ea90fb"
 metafile = true
 
 [[files]]
@@ -38,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/create-radars.pw.toml"
 hash = "c24712eb82bb29d7ed210d7bc175baeb3b022c3b365b2dd0275c25f690e98f52"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+hash = "80332cead695f1e3c27e99133a48709767d1106f836792bb2fc4d594b88f1a68"
 metafile = true
 
 [[files]]
@@ -63,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "94af73eec28b59b314b2c6ef9dfb98f37d7bbcbcb482c278570cc15e44b6a559"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "1b7de11aec3659d7240c71a5181627d34cc270c264d9ce58a944fc9dd28a85cf"
 metafile = true
 
 [[files]]
@@ -93,4 +118,9 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "8b237735f64f339d35d40eaceb76cdf137fd05a49b452d2a8c3434cada762e11"
+metafile = true
+
+[[files]]
+file = "mods/vs-hose-connectors.pw.toml"
+hash = "6c9883d2fa1643fe221307ab0101fbccb204c80953989d3e064872b4f45efd34"
 metafile = true
