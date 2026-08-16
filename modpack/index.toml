@@ -221,11 +221,6 @@ hash = "8b237735f64f339d35d40eaceb76cdf137fd05a49b452d2a8c3434cada762e11"
 metafile = true
 
 [[files]]
-file = "mods/spotlights-or-something.pw.toml"
-hash = "3cd14ed2c90f9b648f532eeb27b818e0fd99eb5f72b9771a289803b3191cc0a0"
-metafile = true
-
-[[files]]
 file = "mods/ssrd.pw.toml"
 hash = "67eabcc7dbc9c93130dc3f6d689808ee97d4a92fb4ee27c7675c12cc87a2131e"
 metafile = true
