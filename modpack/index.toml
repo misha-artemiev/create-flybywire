@@ -81,11 +81,6 @@ hash = "404db1758af44123b89cbf6e2ffdf4a5cf11b708be665f48657ff40735723152"
 metafile = true
 
 [[files]]
-file = "mods/create-harmonics.pw.toml"
-hash = "780ecc3099354cc648ae284972802d68c59f59e381e9bc8f021cf332f7f21433"
-metafile = true
-
-[[files]]
 file = "mods/create-more-linked-remote.pw.toml"
 hash = "12329706d9720921132457af6ccbef816018b850fbc7dbc9b53d983bce913592"
 metafile = true
