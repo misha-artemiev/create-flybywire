@@ -226,11 +226,6 @@ hash = "67eabcc7dbc9c93130dc3f6d689808ee97d4a92fb4ee27c7675c12cc87a2131e"
 metafile = true
 
 [[files]]
-file = "mods/vista_tv.pw.toml"
-hash = "83515b23902492ac0210a70039585124490253309612e8a1b42c277de35755ca"
-metafile = true
-
-[[files]]
 file = "mods/vs-hose-connectors.pw.toml"
 hash = "6c9883d2fa1643fe221307ab0101fbccb204c80953989d3e064872b4f45efd34"
 metafile = true
