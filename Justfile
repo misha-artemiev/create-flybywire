@@ -5,6 +5,7 @@ alias lf := list-files
 alias u := update
 alias mi := modrinth-install
 alias rm := remove
+alias ml := modlist
 
 set working-directory := 'modpack'
 
@@ -32,5 +33,5 @@ modrinth-install MOD_NAME:
 remove MOD_NAME:
     @packwiz rm {{MOD_NAME}}
 
-mod-list:
+modlist:
     @python ../scripts/modlist.py
