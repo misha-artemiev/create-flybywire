@@ -26,6 +26,11 @@ hash = "0194091946d249681e33dd32a927122e844d4093c2f14165f2f99f92e028af11"
 metafile = true
 
 [[files]]
+file = "mods/ccrj45.pw.toml"
+hash = "07c4108fc25f4599728cf07d1d03aa5c870c00c6b56a2d61e5c7df62df877020"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
