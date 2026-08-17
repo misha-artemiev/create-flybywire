@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "4377158b43f908e33f725f622644aef9710434a48fd0d3722d5b150fad7eb865"
+metafile = true
+
+[[files]]
 file = "mods/aero_cam_sync.pw.toml"
 hash = "624c639ef3d79f0f4dbdc06ef0a3ec67aea295845368a172dca5c47f743c5596"
 metafile = true
@@ -28,6 +33,11 @@ metafile = true
 [[files]]
 file = "mods/ccrj45.pw.toml"
 hash = "07c4108fc25f4599728cf07d1d03aa5c870c00c6b56a2d61e5c7df62df877020"
+metafile = true
+
+[[files]]
+file = "mods/classicperipherals.pw.toml"
+hash = "874d3780b94b3f747216943941c5e14be9c59737eb52ebf9b739090084970206"
 metafile = true
 
 [[files]]
@@ -223,6 +233,16 @@ metafile = true
 [[files]]
 file = "mods/ssrd.pw.toml"
 hash = "67eabcc7dbc9c93130dc3f6d689808ee97d4a92fb4ee27c7675c12cc87a2131e"
+metafile = true
+
+[[files]]
+file = "mods/toms-peripherals.pw.toml"
+hash = "3072d18000a88e43e937e591d115e96a196bf5e9a7eecdc56f6d2cf71f8cd3b3"
+metafile = true
+
+[[files]]
+file = "mods/unlimitedperipheralworks.pw.toml"
+hash = "a7b5f8757ed16f03cc99739a1b9f67ff0e215d512dbc631f5f59d6ff74288b6a"
 metafile = true
 
 [[files]]
