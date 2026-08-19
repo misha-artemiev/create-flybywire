@@ -21,13 +21,38 @@ hash = "df32f867e04ce60dfd13d2c5af9d90b58daccfce7b4c94e5dba2f4666ba38a89"
 metafile = true
 
 [[files]]
+file = "mods/cc-graphics.pw.toml"
+hash = "b04ec453e62bb149c60b87732450855e9b6fd4334992f88d630e381929b53d84"
+metafile = true
+
+[[files]]
+file = "mods/cc-terminals.pw.toml"
+hash = "f34d681d3c7f678b8a36774c41111e3f0e802d7e51164b60d4f9f8b690fa8cb1"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "e42363c32c9b6323eea977283c928cec373bfc415534ec92e9c3367ee8c54256"
 metafile = true
 
 [[files]]
+file = "mods/cc_modern.pw.toml"
+hash = "2795701da84a1afb0e405b028f2a22e5d13aa29ea07faf2bb9fb18e58e1b4e3b"
+metafile = true
+
+[[files]]
 file = "mods/cccbridge.pw.toml"
 hash = "0194091946d249681e33dd32a927122e844d4093c2f14165f2f99f92e028af11"
+metafile = true
+
+[[files]]
+file = "mods/cccpg-pinout.pw.toml"
+hash = "22768487c19b74f47e042bc72142650c8ddb665967abbe74ae7325ebbc6fecd4"
+metafile = true
+
+[[files]]
+file = "mods/ccpowergridcompat.pw.toml"
+hash = "961ddb497832118c0eb389c7d668f5fb881461776e62b9c7af82afdb3b2fed9b"
 metafile = true
 
 [[files]]
