@@ -1,0 +1,11 @@
+{
+    "target": "modrinth",
+    "mc_versions": [
+        "1.21.1"
+    ],
+    "loaders": {
+        "NeoForge": "",
+        "neoforge": "21.1.248"
+    },
+    "lockfile_version": 2
+}
