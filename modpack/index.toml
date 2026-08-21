@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
+hash = "fd62a69cda114a6a7c969d4a7ab9604c39acb31a11bdaa8f8618ed922745d2b9"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/ldlib.pw.toml"
-hash = "78027a089e1564f99f8e04994db7037f2d6114d9a4ef8908363006195c6fbb41"
+hash = "2d2e93e6daae15a8a19e0a757926a9d7abdab4813a0866c2deb9f7d820820ca8"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "6e9d9c2c85d3f2c41f93f77d1f7bb9efe518368348ce8bcd82e7a8128a281c72"
+hash = "4e8c07523024ba37f1064f1dcc0c3dbb65996d4976a71dd30f239d3e6efbe096"
 metafile = true
 
 [[files]]
