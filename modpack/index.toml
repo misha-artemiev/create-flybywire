@@ -71,6 +71,11 @@ hash = "a7eb11401eda3779b7f2d6f32c2964511d5c71760573f2577d55c78ca800f8a3"
 metafile = true
 
 [[files]]
+file = "mods/cosmonautics-warp-drive.pw.toml"
+hash = "a6e12f3c9c8adc6d77f43c18ceec32a141404b2ef3084e0e1f6d3e65d16d7473"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-gadgets-and-gizmos.pw.toml"
 hash = "1a6533f2dfb54f7e4ce86c528fd43b84620b5a7044e10f94eabbdf65d85b887c"
 metafile = true

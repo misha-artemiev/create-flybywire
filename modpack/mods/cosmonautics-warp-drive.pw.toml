@@ -1,0 +1,13 @@
+name = "Cosmonautics: Warp Drive"
+filename = "cosmowarp-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hS575ieU/versions/v8q7VpW0/cosmowarp-1.0.1.jar"
+hash-format = "sha512"
+hash = "09bd28e7c5875429dfd97c72899044c8318e964af0990cf7647d5b111cdf7bed5945f554bc6c5dc738fd51611018e5eea0bf8a59d36d12721b018d4a634bddee"
+
+[update]
+[update.modrinth]
+mod-id = "hS575ieU"
+version = "v8q7VpW0"
