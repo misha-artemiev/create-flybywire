@@ -1,9 +1,8 @@
-alias me := modrinth-export
+alias em := export-modpack
 alias r := refresh
 alias l := list
-alias lf := list-files
 alias u := update
-alias mi := modrinth-install
+alias a := add
 alias rm := remove
 alias ml := modlist
 
@@ -12,23 +11,20 @@ set working-directory := 'modpack'
 _default:
 	@just --list
 
-modrinth-export:
-    @packwiz modrinth export
+export-modpack:
+    @pakku export --no-server
 
 refresh:
     @packwiz refresh
 
 list:
-    @packwiz list --version
-
-list-files:
-    @ls mods
+    @pakku ls
 
 update:
-    @packwiz update --all
+    @pakku update --all
 
-modrinth-install MOD_NAME:
-    @packwiz modrinth install {{MOD_NAME}}
+add MOD_SLUG:
+    @pakku add prj --modrinth {{MOD_SLUG}}
 
 remove MOD_NAME:
     @packwiz rm {{MOD_NAME}}

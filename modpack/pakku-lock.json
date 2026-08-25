@@ -1,0 +1,91 @@
+{
+    "target": "modrinth",
+    "mc_versions": [
+        "1.21.1"
+    ],
+    "loaders": {
+        "neoforge": "21.1.248"
+    },
+    "projects": [
+        {
+            "pakku_id": "KUzyUQL3kU9eO1Yj",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "create"
+            },
+            "name": {
+                "modrinth": "Create"
+            },
+            "id": {
+                "modrinth": "LNytGWDc"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "create-1.21.1-6.0.10.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar",
+                    "id": "UjX6dr61",
+                    "parent_id": "LNytGWDc",
+                    "hashes": {
+                        "sha512": "11cc8fc049d2f67f6548c7abfada6b82a3adb5c7ca410a742de04bbca76e03862c518721b88d806f6e6d768a4d68531fdb903a85859b25d1484d550cc7bafd4b",
+                        "sha1": "0e97e49837bed766e6f28a4c95b04885d6acc353"
+                    },
+                    "required_dependencies": [],
+                    "size": 19123767,
+                    "date_published": "2026-04-21T22:20:03.579201Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ZViM2B6eAXl8e0RQ",
+            "pakku_links": [
+                "KUzyUQL3kU9eO1Yj"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "copycats"
+            },
+            "name": {
+                "modrinth": "Create: Copycats+"
+            },
+            "id": {
+                "modrinth": "UT2M39wf"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "copycats-3.0.8+mc.1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/ZwGlMBIk/copycats-3.0.8+mc.1.21.1-neoforge.jar",
+                    "id": "ZwGlMBIk",
+                    "parent_id": "UT2M39wf",
+                    "hashes": {
+                        "sha512": "85edd42d46ba2c331212584d1009bf2c7bd21782c89d2a1d994dbdd170a6812e20fee6aa51faf0aa9357bd75e973b692b460c30680093f8fc2c097c52dc60b08",
+                        "sha1": "ee0cddd7053622aa0a6964e7367bd69795273e7d"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc"
+                    ],
+                    "size": 1799269,
+                    "date_published": "2026-08-23T11:57:55.418169Z"
+                }
+            ]
+        }
+    ],
+    "lockfile_version": 2
+}
