@@ -480,45 +480,6 @@
             ]
         },
         {
-            "pakku_id": "VUI5am3m46seeoZ7",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "cchq-speakers"
-            },
-            "name": {
-                "modrinth": "CC:HQ Speakers"
-            },
-            "id": {
-                "modrinth": "ygA78R8l"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "hqspeaker-1.0.1-Forge1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "forge",
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/ygA78R8l/versions/u5PEI5Ax/hqspeaker-1.0.1-Forge1.20.1.jar",
-                    "id": "u5PEI5Ax",
-                    "parent_id": "ygA78R8l",
-                    "hashes": {
-                        "sha512": "8d3ff609b49874a04588c0a64953958e4e876f971abdcf4554ca29972b530d7b6c97c5b9d3f3cbda44ed01e1be8e681038b6565416e57722c490bb0f57bdd9aa",
-                        "sha1": "8bcadfd32bc34c361393250e10dd293c60aa2c4f"
-                    },
-                    "required_dependencies": [],
-                    "size": 519513,
-                    "date_published": "2026-06-08T11:48:41.988726Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "HQEvVBqU3Oy4KOFg",
             "type": "MOD",
             "side": "BOTH",
@@ -1763,6 +1724,44 @@
             ]
         },
         {
+            "pakku_id": "7lkdZATCH4oqjRNO",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "ldlib"
+            },
+            "name": {
+                "modrinth": "LDLib"
+            },
+            "id": {
+                "modrinth": "B1CBVXHX"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "ldlib2-neoforge-1.21.1-2.2.37-all.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/B1CBVXHX/versions/bpcbGDy4/ldlib2-neoforge-1.21.1-2.2.37-all.jar",
+                    "id": "bpcbGDy4",
+                    "parent_id": "B1CBVXHX",
+                    "hashes": {
+                        "sha512": "46114d746ed045bf9bfdab87877436bc24f3120362b89256aa4749ff794691988f58b694208aca4297f5042fd24cb3387590b9bc20b28d708c6e246aaa669c7b",
+                        "sha1": "fd914403c69e451cd7446908d5730cac7412bf54"
+                    },
+                    "required_dependencies": [],
+                    "size": 7215985,
+                    "date_published": "2026-08-24T14:50:48.966496Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "3MDMuvKzsJYjr2q7",
             "type": "MOD",
             "side": "BOTH",
@@ -1833,6 +1832,43 @@
                     "required_dependencies": [],
                     "size": 1007390,
                     "date_published": "2026-08-24T10:24:15.727728Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "dxkJc8NxcxwQUrbx",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "petrolpark"
+            },
+            "name": {
+                "modrinth": "Petrolpark's Library"
+            },
+            "id": {
+                "modrinth": "ik2WZkTZ"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "petrolpark-1.21.1-1.5.6.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/ik2WZkTZ/versions/OpfPig4I/petrolpark-1.21.1-1.5.6.jar",
+                    "id": "OpfPig4I",
+                    "parent_id": "ik2WZkTZ",
+                    "hashes": {
+                        "sha512": "c29dda9eb27b1155494ab54efcbadae0be1158c3e32f7ee072789dd1f4d255cd9c139e18026fd30d1b52b949094c6a511ca5540c5a10b0a7af556bb3a5f3b1c6",
+                        "sha1": "a1738eaea0f2d6cf7bf3736d4dfeb0c3cb8a2275"
+                    },
+                    "required_dependencies": [],
+                    "size": 6942506,
+                    "date_published": "2026-08-23T18:44:14.361214Z"
                 }
             ]
         },
