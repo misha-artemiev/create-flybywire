@@ -1,15 +1,16 @@
-alias em := export-modpack
+alias eb := export-build
 alias l := list
 alias u := update
 alias a := add
 alias rm := remove
+alias s := status
 
 set working-directory := 'modpack'
 
 _default:
 	@just --list
 
-export-modpack:
+export-build:
     @pakku export --no-server
 
 list:
@@ -23,3 +24,6 @@ add MOD_SLUG:
 
 remove MOD_SLUG:
     @pakku rm {{MOD_SLUG}}
+
+status:
+    @pakku status

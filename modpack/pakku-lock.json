@@ -440,7 +440,7 @@
         {
             "pakku_id": "ObZVXPJCG9uiiqYF",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "cc-cbc"
             },
