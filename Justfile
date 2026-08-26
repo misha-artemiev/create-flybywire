@@ -7,6 +7,7 @@ alias rm := remove
 alias s := status
 alias rml := release-modlist
 alias rd := release-darwin
+alias sv := set-version
 
 set working-directory := 'modpack'
 
@@ -41,3 +42,6 @@ release-darwin:
     @just export-build
     @just release-modlist | pbcopy - 
     @open build/modrinth
+
+set-version NEW_VERSION:
+    @pakku cfg --version {{NEW_VERSION}}
