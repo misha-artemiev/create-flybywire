@@ -34,6 +34,6 @@ release-modlist:
     @scripts/release-modlist.bash
 
 release-darwin:
-    @j export-build
-    @j release-modlist | pbcopy - 
+    @just export-build
+    @just release-modlist | pbcopy - 
     @open modpack/build/modrinth
