@@ -5,6 +5,7 @@ alias a := add
 alias rm := remove
 alias s := status
 alias rml := release-modlist
+alias rd := release-darwin
 
 set working-directory := 'modpack'
 
@@ -31,3 +32,8 @@ status:
 
 release-modlist:
     @scripts/release-modlist.bash
+
+release-darwin:
+    @j export-build
+    @j release-modlist | pbcopy - 
+    @open modpack/build/modrinth
