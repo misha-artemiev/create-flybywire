@@ -1,37 +1,47 @@
-alias me := modrinth-export
-alias r := refresh
+alias eb := export-build
 alias l := list
-alias lf := list-files
 alias u := update
-alias mi := modrinth-install
+alias am := add-modrinth
+alias ag := add-github
 alias rm := remove
-alias ml := modlist
+alias s := status
+alias rml := release-modlist
+alias rd := release-darwin
+alias sv := set-version
 
 set working-directory := 'modpack'
 
 _default:
 	@just --list
 
-modrinth-export:
-    @packwiz modrinth export
-
-refresh:
-    @packwiz refresh
+export-build:
+    @pakku export --no-server
 
 list:
-    @packwiz list --version
-
-list-files:
-    @ls mods
+    @pakku ls
 
 update:
-    @packwiz update --all
+    @pakku update --all
 
-modrinth-install MOD_NAME:
-    @packwiz modrinth install {{MOD_NAME}}
+add-modrinth MOD_SLUG:
+    @pakku add prj --modrinth {{MOD_SLUG}}
 
-remove MOD_NAME:
-    @packwiz rm {{MOD_NAME}}
+add-github MOD_REPO:
+    @pakku add prj --gh {{MOD_REPO}}
 
-modlist:
-    @python ../scripts/modlist.py
+remove MOD_SLUG:
+    @pakku rm {{MOD_SLUG}}
+
+status:
+    @pakku status
+
+release-modlist:
+    @../scripts/release-modlist.bash pakku-lock.json
+
+release-darwin:
+    @just export-build
+    @just release-modlist | pbcopy - 
+    @open build/modrinth
+
+set-version NEW_VERSION:
+    @pakku cfg --version {{NEW_VERSION}}

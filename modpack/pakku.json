@@ -1,0 +1,7 @@
+{
+    "name": "create-flybywire",
+    "version": "2.1.0",
+    "overrides": [
+        "config"
+    ]
+}
