@@ -1,7 +1,8 @@
 alias eb := export-build
 alias l := list
 alias u := update
-alias a := add
+alias am := add-modrinth
+alias ag := add-github
 alias rm := remove
 alias s := status
 alias rml := release-modlist
@@ -21,8 +22,11 @@ list:
 update:
     @pakku update --all
 
-add MOD_SLUG:
+add-modrinth MOD_SLUG:
     @pakku add prj --modrinth {{MOD_SLUG}}
+
+add-github MOD_REPO:
+    @pakku add prj --gh {{MOD_REPO}}
 
 remove MOD_SLUG:
     @pakku rm {{MOD_SLUG}}

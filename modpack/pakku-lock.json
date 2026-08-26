@@ -1040,6 +1040,34 @@
             ]
         },
         {
+            "pakku_id": "X0fKKKY6H25FB12f",
+            "type": "MOD",
+            "slug": {
+                "github": "Metallurgists-of-Create/Create-TFMG-CE"
+            },
+            "name": {
+                "github": "Create-TFMG-CE"
+            },
+            "id": {
+                "github": "1324418912"
+            },
+            "files": [
+                {
+                    "type": "github",
+                    "file_name": "tfmg-1.21.1-1.2.4b-community.jar",
+                    "release_type": "release",
+                    "url": "https://github.com/Metallurgists-of-Create/Create-TFMG-CE/releases/download/v1.2.4b/tfmg-1.21.1-1.2.4b-community.jar",
+                    "id": "527536308",
+                    "parent_id": "1324418912",
+                    "hashes": {
+                        "sha256": "01a20a35db0106affcd2aaa318728e1bd1ccedf539788bddc0be7387c10f741a"
+                    },
+                    "size": 5282407,
+                    "date_published": "2026-08-24T11:49:04Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Jy0KDERBCqNA3fAU",
             "pakku_links": [
                 "sVV6I1Wc0ZXxGxgj",
@@ -1503,59 +1531,6 @@
                     "required_dependencies": [],
                     "size": 2990812,
                     "date_published": "2026-06-10T17:55:35.239284Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "NjX3rfQm5r0Jqgwe",
-            "pakku_links": [
-                "KUzyUQL3kU9eO1Yj"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "create-tfmg"
-            },
-            "name": {
-                "modrinth": "Create: The Factory Must Grow"
-            },
-            "id": {
-                "modrinth": "USgVjXsk"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "tfmg-1.2.0.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1",
-                        "1.21.2",
-                        "1.21.3",
-                        "1.21.4",
-                        "1.21.5",
-                        "1.21.6",
-                        "1.21.7",
-                        "1.21.8",
-                        "1.21.9",
-                        "1.21.10",
-                        "1.21.11"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/USgVjXsk/versions/uDi14nbt/tfmg-1.2.0.jar",
-                    "id": "uDi14nbt",
-                    "parent_id": "USgVjXsk",
-                    "hashes": {
-                        "sha512": "03f2ad28c78ef565ef203c5650280acb0b846d6105dc5c84b2e31187f501be5c59733ef3adb623fbaa32c3233d113d608905259128661ffab06b26b270b1b38c",
-                        "sha1": "b520f3687f60a69eb265ff5b9a16759b9e124103"
-                    },
-                    "required_dependencies": [
-                        "LNytGWDc"
-                    ],
-                    "size": 4924243,
-                    "date_published": "2026-01-07T15:51:36.492971Z"
                 }
             ]
         },
