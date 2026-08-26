@@ -512,43 +512,6 @@
             ]
         },
         {
-            "pakku_id": "iJNSaO4HmJehaKEi",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "ccpowergridcompat"
-            },
-            "name": {
-                "modrinth": "CCPowerGridCompat"
-            },
-            "id": {
-                "modrinth": "qVlaUG9z"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "ccpowergridcompat-1.0.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/qVlaUG9z/versions/HmKSGfmr/ccpowergridcompat-1.0.1.jar",
-                    "id": "HmKSGfmr",
-                    "parent_id": "qVlaUG9z",
-                    "hashes": {
-                        "sha512": "055e3112b6481a684f176727cad1d63b8d82c334c34183c76b8ffc2b750712485b85a7d177fc4ecdc9b5b72a777dd64f6e9e06ffba57ca21931861f6434f56e1",
-                        "sha1": "a16ef0d12d75bf616016e914e405bc33eab193bc"
-                    },
-                    "required_dependencies": [],
-                    "size": 144661,
-                    "date_published": "2026-06-22T06:41:52.131038Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "EcANe1mdLDWoZPpt",
             "pakku_links": [
                 "sVV6I1Wc0ZXxGxgj"
@@ -1398,7 +1361,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "powergrid-mc1.21.1-0.6.0.1.jar",
+                    "file_name": "powergrid-mc1.21.1-0.6.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -1406,19 +1369,19 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/eWiBLJ9R/versions/IhWvpljS/powergrid-mc1.21.1-0.6.0.1.jar",
-                    "id": "IhWvpljS",
+                    "url": "https://cdn.modrinth.com/data/eWiBLJ9R/versions/ip4gJrgx/powergrid-mc1.21.1-0.6.1.jar",
+                    "id": "ip4gJrgx",
                     "parent_id": "eWiBLJ9R",
                     "hashes": {
-                        "sha512": "947ac20357e5f1529973cff59e7e4d1de6f7ecc2c50adb18febc678017e81bc20d010c459eaddb23351689c9a7adb4329dc452dfa4b4ef535f0d3b608e51dd9c",
-                        "sha1": "68509bfa4863318a2d188ed232072c76465b2b13"
+                        "sha512": "d5d7075b1977b449f196468963cdf24910844823ea0c67d7a3698ac4702e399978337b38aaf60b6cf7ebb089f712cb8b2dc0c2920e6bf39273bae608de5c13c4",
+                        "sha1": "bb0139368f141b0d3a60707ef81c8e010cc72df9"
                     },
                     "required_dependencies": [
                         "LNytGWDc",
                         "lhGA9TYQ"
                     ],
-                    "size": 7905734,
-                    "date_published": "2026-08-14T16:53:04.103573Z"
+                    "size": 7965088,
+                    "date_published": "2026-08-26T11:49:50.990733Z"
                 }
             ]
         },
