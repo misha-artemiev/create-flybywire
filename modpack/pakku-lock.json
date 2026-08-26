@@ -162,6 +162,43 @@
             ]
         },
         {
+            "pakku_id": "icDQf3k8IZDwydJZ",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "balm"
+            },
+            "name": {
+                "modrinth": "Balm"
+            },
+            "id": {
+                "modrinth": "MBAkmtvl"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "balm-neoforge-1.21.1-21.0.65.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/KgypwTqX/balm-neoforge-1.21.1-21.0.65.jar",
+                    "id": "KgypwTqX",
+                    "parent_id": "MBAkmtvl",
+                    "hashes": {
+                        "sha512": "779b4f9e9738ae6f010e87f71b2ed5a114eb9b1b3d5b55cf42ad538094e5b064a1d3f4ff00064aac90da1c841a144464d47378d9bffc448a71d87132cb954101",
+                        "sha1": "69e0b3b69dd23c132e85b7e82310f45ae96b263d"
+                    },
+                    "required_dependencies": [],
+                    "size": 783793,
+                    "date_published": "2026-08-14T07:50:41.896963Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "krJyLrhw9YwsWdjM",
             "type": "MOD",
             "side": "BOTH",
@@ -1214,6 +1251,92 @@
             ]
         },
         {
+            "pakku_id": "6KxivW6SnZOyIRSY",
+            "pakku_links": [
+                "KUzyUQL3kU9eO1Yj"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "create-dragons-plus"
+            },
+            "name": {
+                "modrinth": "Create: Dragons Plus"
+            },
+            "id": {
+                "modrinth": "dzb1a5WV"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "CreateDragonsPlus-1.11.7b.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/dzb1a5WV/versions/zQDQbNih/CreateDragonsPlus-1.11.7b.jar",
+                    "id": "zQDQbNih",
+                    "parent_id": "dzb1a5WV",
+                    "hashes": {
+                        "sha512": "4b86f50641b95532d8662e333b1805f0938bf49d1fd9ee7bd4920dca7a4c3707e11f95d44d6a6ce250acc0d534f08ffd2a7891308d587c4d63ce63be3377ae83",
+                        "sha1": "36085362f1123273a2d8e8e7e8af86c32ac10251"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc"
+                    ],
+                    "size": 1038830,
+                    "date_published": "2026-08-15T12:35:36.475091Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "nWm1hEBpoP0F7UGi",
+            "pakku_links": [
+                "KUzyUQL3kU9eO1Yj",
+                "6KxivW6SnZOyIRSY"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "create-enchantment-industry"
+            },
+            "name": {
+                "modrinth": "Create: Enchantment Industry"
+            },
+            "id": {
+                "modrinth": "JWGBpFUP"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "create-enchantment-industry-2.5.3.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/Y6ZGWuZr/create-enchantment-industry-2.5.3.jar",
+                    "id": "Y6ZGWuZr",
+                    "parent_id": "JWGBpFUP",
+                    "hashes": {
+                        "sha512": "6a42945b32a6231e6a62375d44e5cfdca21456301362c11ca3cc65784dd2b238ac4686b59192c5da1f02e7c16b4c6e5c04f46c45cb45058712c7ad5706c3854d",
+                        "sha1": "91efc293e6fbdc20a4ef50a27f3ab5b593d480d1"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc",
+                        "dzb1a5WV"
+                    ],
+                    "size": 1606404,
+                    "date_published": "2026-08-22T11:58:26.167586Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "LLn8SHINvCAvxyFI",
             "pakku_links": [
                 "KUzyUQL3kU9eO1Yj"
@@ -1599,6 +1722,86 @@
             ]
         },
         {
+            "pakku_id": "K03kn0eU6Gub4pM1",
+            "pakku_links": [
+                "icDQf3k8IZDwydJZ"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "default-options"
+            },
+            "name": {
+                "modrinth": "Default Options"
+            },
+            "id": {
+                "modrinth": "WEg59z5b"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "defaultoptions-neoforge-1.21.1-21.1.8.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/WEg59z5b/versions/1zt17WsC/defaultoptions-neoforge-1.21.1-21.1.8.jar",
+                    "id": "1zt17WsC",
+                    "parent_id": "WEg59z5b",
+                    "hashes": {
+                        "sha512": "29f66777068d92b1e149630d569441e5176ac40ec5cb4ee6c63c565aa7d475587a5097f59c433d69a39fd238b64902e2ba742b30c26419de901c86a3300b848e",
+                        "sha1": "d682687ec41236092c5206a21e2ed34bdb7f6b79"
+                    },
+                    "required_dependencies": [
+                        "MBAkmtvl"
+                    ],
+                    "size": 105507,
+                    "date_published": "2026-07-24T06:56:35.955822Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "OhXcsecuqQBx8PG3",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "distanthorizons"
+            },
+            "name": {
+                "modrinth": "Distant Horizons"
+            },
+            "id": {
+                "modrinth": "uCdwusMi"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/ZpKb4kZp/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
+                    "id": "ZpKb4kZp",
+                    "parent_id": "uCdwusMi",
+                    "hashes": {
+                        "sha512": "d4199f92f992fbd2c75a3b0e4e81c8a98bee889013f7347f2149ffa62c86748bde22135e9b2c82a10875db94fa576571c661c5ee16d2f567bd8a93d6f255fd22",
+                        "sha1": "df25e8cfe06917963778723a1d9a60610dd21bec"
+                    },
+                    "required_dependencies": [],
+                    "size": 30207268,
+                    "date_published": "2026-07-07T20:30:38.837577Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "VltxvoMB2bzqyn0v",
             "type": "MOD",
             "side": "BOTH",
@@ -1632,6 +1835,44 @@
                     "required_dependencies": [],
                     "size": 121559,
                     "date_published": "2026-01-25T12:59:45.271417Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "oy1GJZWt1MjvZSof",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "jei"
+            },
+            "name": {
+                "modrinth": "Just Enough Items (JEI)"
+            },
+            "id": {
+                "modrinth": "u6dRKJwZ"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "jei-1.21.1-neoforge-19.44.0.405.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/TwopcqFb/jei-1.21.1-neoforge-19.44.0.405.jar",
+                    "id": "TwopcqFb",
+                    "parent_id": "u6dRKJwZ",
+                    "hashes": {
+                        "sha512": "ac86c24e6389c648157bcb6e4c2901a7f555d4e6fedfcb55b4d7884100d0bb4b1017f811898164856bba431b0a19e1057ba6897e391cf1bf40f79fced50320a9",
+                        "sha1": "cede8db343093e26a82531a59e537c039f6b5e07"
+                    },
+                    "required_dependencies": [],
+                    "size": 1699520,
+                    "date_published": "2026-08-25T16:03:59.839375Z"
                 }
             ]
         },
@@ -1707,6 +1948,54 @@
                     "required_dependencies": [],
                     "size": 774220,
                     "date_published": "2026-06-27T17:11:51.285886Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "VEbVwYL8S02KBW58",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "no-chat-restrictions"
+            },
+            "name": {
+                "modrinth": "No Chat Restrictions"
+            },
+            "id": {
+                "modrinth": "z440MEwJ"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "NoChatRestrictions-NeoForge-MC1.21.11-v1.0.2.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/z440MEwJ/versions/W4xlmhAG/NoChatRestrictions-NeoForge-MC1.21.11-v1.0.2.jar",
+                    "id": "W4xlmhAG",
+                    "parent_id": "z440MEwJ",
+                    "hashes": {
+                        "sha512": "6f9308b06c882b1e0e9b39790be1fe42b5a35c8b534319aaa326b88240c356a53e34866f601778fd74d7973e609285974897761212305224ac4f49126085359c",
+                        "sha1": "f1287060af0efbd5e85de052be9d550709561ab1"
+                    },
+                    "required_dependencies": [],
+                    "size": 10508,
+                    "date_published": "2026-08-22T14:12:57.774904Z"
                 }
             ]
         },
@@ -1892,6 +2181,50 @@
                     "required_dependencies": [],
                     "size": 1607474,
                     "date_published": "2026-08-09T03:47:57.264273Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "potE0dafEjbl0iLb",
+            "pakku_links": [
+                "Lld3DR77sSuQiJjH",
+                "NaKhwI5dQv46IreA"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "ssrd"
+            },
+            "name": {
+                "modrinth": "Separate Sable Render Distance (Create Aeronautics Addon)"
+            },
+            "id": {
+                "modrinth": "fJ183v3D"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "SSRD-1.8.5-1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/fJ183v3D/versions/OSM1jkMg/SSRD-1.8.5-1.21.1.jar",
+                    "id": "OSM1jkMg",
+                    "parent_id": "fJ183v3D",
+                    "hashes": {
+                        "sha512": "7f238068131477ffb628949d3528f8e933cde2ab05f2c20ff9786e9a0b538bb8e866a9b6dda7460899016fa41f23910013ee476cc876d1a4bbef0661436a1430",
+                        "sha1": "cf5fc3c34ae53341ad0a4fe1e03e9cbf6340cfd4"
+                    },
+                    "required_dependencies": [
+                        "T9PomCSv",
+                        "AANobbMI"
+                    ],
+                    "size": 70956,
+                    "date_published": "2026-07-26T22:01:27.851485Z"
                 }
             ]
         },
