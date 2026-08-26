@@ -31,9 +31,9 @@ status:
     @pakku status
 
 release-modlist:
-    @scripts/release-modlist.bash
+    @../scripts/release-modlist.bash pakku-lock.json
 
 release-darwin:
     @just export-build
     @just release-modlist | pbcopy - 
-    @open modpack/build/modrinth
+    @open build/modrinth
