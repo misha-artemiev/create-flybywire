@@ -4,6 +4,7 @@ alias u := update
 alias a := add
 alias rm := remove
 alias s := status
+alias rml := release-modlist
 
 set working-directory := 'modpack'
 
@@ -27,3 +28,6 @@ remove MOD_SLUG:
 
 status:
     @pakku status
+
+release-modlist:
+    @scripts/release-modlist.bash
