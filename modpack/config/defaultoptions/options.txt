@@ -1,1 +1,6 @@
 lang=en_gb
+darkMojangStudiosBackground=true
+hideSplashTexts=true
+advancedItemTooltips=true
+skipMultiplayerWarning=true
+onboardAccessibility=false
