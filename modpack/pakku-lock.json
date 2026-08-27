@@ -930,7 +930,7 @@
                 "sVV6I1Wc0ZXxGxgj"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "ccsecureboot"
             },
@@ -2496,50 +2496,6 @@
                     "required_dependencies": [],
                     "size": 9368120,
                     "date_published": "2026-08-25T15:26:21.570672Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "DWVnZm9yRl8U6ga9",
-            "pakku_links": [
-                "KUzyUQL3kU9eO1Yj",
-                "mWkt31YmXgSqzOql"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "create-tracks+"
-            },
-            "name": {
-                "modrinth": "Create: Tracks+"
-            },
-            "id": {
-                "modrinth": "E8eHF2Yl"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "tracks_plus-1.0.6b2.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/E8eHF2Yl/versions/aknIwLJT/tracks_plus-1.0.6b2.jar",
-                    "id": "aknIwLJT",
-                    "parent_id": "E8eHF2Yl",
-                    "hashes": {
-                        "sha512": "717b58794601519a135991ad98fea746191d215f633eb46b5f08fa418b471cac5330cc2d7911a00b1d5e4eb1c5d2631baa0d0f35cb83991323727b0507a359f3",
-                        "sha1": "e598b6fe6814e169a61e8d1c64d86e6e13ac6b5a"
-                    },
-                    "required_dependencies": [
-                        "LNytGWDc",
-                        "oWaK0Q19"
-                    ],
-                    "size": 612293,
-                    "date_published": "2026-08-11T04:16:51.235739Z"
                 }
             ]
         },
