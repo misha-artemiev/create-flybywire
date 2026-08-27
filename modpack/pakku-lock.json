@@ -925,6 +925,48 @@
             ]
         },
         {
+            "pakku_id": "xHxu6BCgn3lpx6Ly",
+            "pakku_links": [
+                "sVV6I1Wc0ZXxGxgj"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "ccsecureboot"
+            },
+            "name": {
+                "modrinth": "CCSecureBoot"
+            },
+            "id": {
+                "modrinth": "8S3qbPSr"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "CCSecureBoot-1.0.2-neoforge-1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/8S3qbPSr/versions/dGeakQRM/CCSecureBoot-1.0.2-neoforge-1.21.1.jar",
+                    "id": "dGeakQRM",
+                    "parent_id": "8S3qbPSr",
+                    "hashes": {
+                        "sha512": "b4342b73a64b7b7166883832af73705720e3e027e04fbcdaf813135454ed1aa6ced84f623342092f7b4941fa382ec0f6235485629130cf3fcb3cb6b9d3e78a4b",
+                        "sha1": "1587cc54fed4621e66af6859f058ce8c3674890d"
+                    },
+                    "required_dependencies": [
+                        "gu7yAYhd"
+                    ],
+                    "size": 9458425,
+                    "date_published": "2025-12-05T22:46:04.466119Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "EcANe1mdLDWoZPpt",
             "pakku_links": [
                 "sVV6I1Wc0ZXxGxgj"
@@ -1792,6 +1834,48 @@
             ]
         },
         {
+            "pakku_id": "qHBmd4G5l8FFob6U",
+            "pakku_links": [
+                "KUzyUQL3kU9eO1Yj"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "create-compact_transmission"
+            },
+            "name": {
+                "modrinth": "Create: Compact Transmission"
+            },
+            "id": {
+                "modrinth": "qBkvR8oH"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "create_compact_transmission-1.0.7.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/qBkvR8oH/versions/pg0UXg5T/create_compact_transmission-1.0.7.jar",
+                    "id": "pg0UXg5T",
+                    "parent_id": "qBkvR8oH",
+                    "hashes": {
+                        "sha512": "c5ec068e47c42d45a4ef477fcbb0bf4ab686c25d95516a78ec7c42587756376710cb7ac39bda5a95517f1a36e3d5a88a549fc97a1e023415592c4e5ec9dbe401",
+                        "sha1": "30a695f6fb661798966f26770c9226604aae2a59"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc"
+                    ],
+                    "size": 171997,
+                    "date_published": "2026-06-13T18:19:42.440933Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "DgccAV6xAm5T8OhM",
             "pakku_links": [
                 "KUzyUQL3kU9eO1Yj"
@@ -2042,6 +2126,48 @@
                     ],
                     "size": 1606404,
                     "date_published": "2026-08-22T11:58:26.167586Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "hUDXy9vEeyvGfGRv",
+            "pakku_links": [
+                "KUzyUQL3kU9eO1Yj"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "create-firefighting-additions"
+            },
+            "name": {
+                "modrinth": "Create: FireFighting Additions"
+            },
+            "id": {
+                "modrinth": "tlmPPRct"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "createfirefightingadd-0.2.1-beta (1).jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/tlmPPRct/versions/s0eGgxnc/createfirefightingadd-0.2.1-beta (1).jar",
+                    "id": "s0eGgxnc",
+                    "parent_id": "tlmPPRct",
+                    "hashes": {
+                        "sha512": "c282ab0d5a051eb8d43e0918eebaa45a2c88ea2a35e09f9670ef91f76292a61d1f57e420a1db603caf7024fcc8e62cca4373dd1189807e800633836bc0e75395",
+                        "sha1": "e53d6226cec82e5d2f34d225c413c2e9ebaa4e6a"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc"
+                    ],
+                    "size": 1110318,
+                    "date_published": "2026-07-20T16:37:10.056774Z"
                 }
             ]
         },
@@ -2337,6 +2463,43 @@
             ]
         },
         {
+            "pakku_id": "raVHtUKezkDzBsLI",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "create-graphs-stats"
+            },
+            "name": {
+                "modrinth": "Create: Stats & Additions"
+            },
+            "id": {
+                "modrinth": "inKFQSzo"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "create_stats-1.2.81.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/inKFQSzo/versions/4RwgUE5P/create_stats-1.2.81.jar",
+                    "id": "4RwgUE5P",
+                    "parent_id": "inKFQSzo",
+                    "hashes": {
+                        "sha512": "1176c7e38936e25b18d82dd51d2e7c52d2d51ed2b4ed927779af8fa31006fd10f0c026b9bd267a1d46572d05683256ad2eee479fc1dc335d1f283a8ae8d5c81c",
+                        "sha1": "f0804e726575bb43898e363a71e43e131305c1ea"
+                    },
+                    "required_dependencies": [],
+                    "size": 9368120,
+                    "date_published": "2026-08-25T15:26:21.570672Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "DWVnZm9yRl8U6ga9",
             "pakku_links": [
                 "KUzyUQL3kU9eO1Yj",
@@ -2543,6 +2706,43 @@
                     ],
                     "size": 513007,
                     "date_published": "2026-03-28T21:02:24.951825Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "CRAHT5zeIEXtzi43",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "dashpanels"
+            },
+            "name": {
+                "modrinth": "Dashpanels"
+            },
+            "id": {
+                "modrinth": "xZJfGh82"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "dashpanels-2.1+neoforge1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/xZJfGh82/versions/aH1Oe6Kk/dashpanels-2.1+neoforge1.21.1.jar",
+                    "id": "aH1Oe6Kk",
+                    "parent_id": "xZJfGh82",
+                    "hashes": {
+                        "sha512": "aecba4c55d94852919a2afb8aa717001900df8a5bac395ad5858545b4bdf95a8f37fd6ee99254746e65f0999fb30aaa2029fab13ca1efb82a0da9dccc718cd98",
+                        "sha1": "2d8b1f07b0ef3f24610324ec3e594edf356b8f36"
+                    },
+                    "required_dependencies": [],
+                    "size": 891155,
+                    "date_published": "2026-08-07T04:00:18.960037Z"
                 }
             ]
         },
@@ -2811,6 +3011,48 @@
                     "required_dependencies": [],
                     "size": 774220,
                     "date_published": "2026-06-27T17:11:51.285886Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "9z3kET4679DvOxjT",
+            "pakku_links": [
+                "s8L7DRMyFxuz6w0T"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "markdownmanual"
+            },
+            "name": {
+                "modrinth": "Markdown Manual"
+            },
+            "id": {
+                "modrinth": "nPQ9xkPg"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "markdown_manual-MC1.21.1-neoforge-1.2.7+f05450f.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/nPQ9xkPg/versions/DXJD7b8A/markdown_manual-MC1.21.1-neoforge-1.2.7+f05450f.jar",
+                    "id": "DXJD7b8A",
+                    "parent_id": "nPQ9xkPg",
+                    "hashes": {
+                        "sha512": "c4526de6f8975561d12a4119c7f5fb81726c2b67e087f868fea4931eaadbc4b977f1c6370ac1dbcaf81ce8be9b391df5c2008d6da21a9033d62ef81d34898604",
+                        "sha1": "efd7a81b602666624f13c11acab36f1696dedef6"
+                    },
+                    "required_dependencies": [
+                        "lhGA9TYQ"
+                    ],
+                    "size": 145665,
+                    "date_published": "2026-08-23T15:41:17.028905Z"
                 }
             ]
         },
@@ -3322,6 +3564,50 @@
                     "required_dependencies": [],
                     "size": 4446035,
                     "date_published": "2026-08-09T03:48:21.526936Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "eZfdEZPI39OhlFmR",
+            "pakku_links": [
+                "s8L7DRMyFxuz6w0T",
+                "9z3kET4679DvOxjT"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "tis3d"
+            },
+            "name": {
+                "modrinth": "TIS-3D"
+            },
+            "id": {
+                "modrinth": "L23x7zL8"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "tis3d-MC1.21.1-neoforge-2.0.0+fff58fd.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/L23x7zL8/versions/NpsuTsrm/tis3d-MC1.21.1-neoforge-2.0.0+fff58fd.jar",
+                    "id": "NpsuTsrm",
+                    "parent_id": "L23x7zL8",
+                    "hashes": {
+                        "sha512": "a54c0089453195bdb49d24fc0c18ff510a3fb01d8a9e411621f83c4f3ad496512d0fb34a251423621c8abf04051fe7fc6c491560d0e535a91065c038a96ac237",
+                        "sha1": "0f49248a932c560fe7fd0782de445d898e1ef9e8"
+                    },
+                    "required_dependencies": [
+                        "lhGA9TYQ",
+                        "nPQ9xkPg"
+                    ],
+                    "size": 676967,
+                    "date_published": "2026-08-26T09:02:25.397610Z"
                 }
             ]
         },
