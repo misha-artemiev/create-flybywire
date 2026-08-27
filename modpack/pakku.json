@@ -9,6 +9,9 @@
             "type": "MOD",
             "side": "BOTH",
             "export": true
+        },
+        "ccsecureboot": {
+            "side": "BOTH"
         }
     }
 }
