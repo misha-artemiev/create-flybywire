@@ -124,6 +124,50 @@
             ]
         },
         {
+            "pakku_id": "gE2ZEYj4fqLZyOwo",
+            "pakku_links": [
+                "mWkt31YmXgSqzOql",
+                "7lkdZATCH4oqjRNO"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "aeronauticswind-tunnel"
+            },
+            "name": {
+                "modrinth": "Aeronautics:Wind Tunnel"
+            },
+            "id": {
+                "modrinth": "EnEqwk7y"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "windtunnel-1.1.8.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/EnEqwk7y/versions/IdHA8JDW/windtunnel-1.1.8.jar",
+                    "id": "IdHA8JDW",
+                    "parent_id": "EnEqwk7y",
+                    "hashes": {
+                        "sha512": "e239a2318cdf9e04d243834fa3898bb123001aa675e6949086e516e7d14514a671fc78c95472dbe67c09e6895495ca51061831ac6e3a9c5dcde7367df7c9e0e8",
+                        "sha1": "232f6c18eb802bc2b763e097caf58637d343ab37"
+                    },
+                    "required_dependencies": [
+                        "oWaK0Q19",
+                        "B1CBVXHX"
+                    ],
+                    "size": 592298,
+                    "date_published": "2026-05-20T14:30:48.027973Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "hE2RFx1PKPn8IYDN",
             "type": "MOD",
             "side": "BOTH",
@@ -201,6 +245,48 @@
             ]
         },
         {
+            "pakku_id": "n9xj0L5ntitNbuAk",
+            "pakku_links": [
+                "KUzyUQL3kU9eO1Yj"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "azimuth-api"
+            },
+            "name": {
+                "modrinth": "Azimuth API"
+            },
+            "id": {
+                "modrinth": "RpH8tmT1"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "azimuth-1.4.7.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/RpH8tmT1/versions/O3caj5PW/azimuth-1.4.7.jar",
+                    "id": "O3caj5PW",
+                    "parent_id": "RpH8tmT1",
+                    "hashes": {
+                        "sha512": "887d0217ae13ccda5f9acb8c240d8f48912da97e3a08c61bd696cc8d05bedf7ab123cb1919c0745158c9cc5a28d80878bed242d57f88a1d691d926bbc3f1a42a",
+                        "sha1": "b2265446be3b386fa4dc0c9f7feed8804c741d99"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc"
+                    ],
+                    "size": 142951,
+                    "date_published": "2026-08-16T10:55:22.682046Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "icDQf3k8IZDwydJZ",
             "type": "MOD",
             "side": "BOTH",
@@ -272,6 +358,48 @@
                     "required_dependencies": [],
                     "size": 25085,
                     "date_published": "2026-01-01T16:01:19.420866Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "48yNalhT0ItbEp0p",
+            "pakku_links": [
+                "mWkt31YmXgSqzOql"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "better_contraption_diagram"
+            },
+            "name": {
+                "modrinth": "Better Contraption Diagram"
+            },
+            "id": {
+                "modrinth": "DX0OFVMh"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "better_contraption_diagram-1.2.2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/DX0OFVMh/versions/7vomxhkR/better_contraption_diagram-1.2.2.jar",
+                    "id": "7vomxhkR",
+                    "parent_id": "DX0OFVMh",
+                    "hashes": {
+                        "sha512": "905d72564a3269425cc39b6d2820e45b92776b3c1fe67a0c455ac29a4ee4f6c967b8bef589ceee8512a7c3f35375313a328d1de717c6bbc3f62877c8d9b48b6d",
+                        "sha1": "a66caab03264d562bdbcc99a3a6142277f6c069c"
+                    },
+                    "required_dependencies": [
+                        "oWaK0Q19"
+                    ],
+                    "size": 846589,
+                    "date_published": "2026-08-21T19:16:20.282708Z"
                 }
             ]
         },
@@ -1486,6 +1614,52 @@
             ]
         },
         {
+            "pakku_id": "1rQTglVNb03uHmCY",
+            "pakku_links": [
+                "Uiwypj9dnshCiUqS",
+                "KUzyUQL3kU9eO1Yj",
+                "n9xj0L5ntitNbuAk"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "create-bits-n-bobs"
+            },
+            "name": {
+                "modrinth": "Create: Bits 'n' Bobs"
+            },
+            "id": {
+                "modrinth": "T8bvmqVZ"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "bits_n_bobs-2.2.7.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/T8bvmqVZ/versions/vkYOCznD/bits_n_bobs-2.2.7.jar",
+                    "id": "vkYOCznD",
+                    "parent_id": "T8bvmqVZ",
+                    "hashes": {
+                        "sha512": "b8b73a196ca04e2a9dec9318e4f73396199639996511cbf90cccb5e0762bd97710f3a54b604884c6ee493ff3d3101109d20030f087199729491fe2f531698089",
+                        "sha1": "3b169d9c3837fd557f2a691165dcde76cc5d11f9"
+                    },
+                    "required_dependencies": [
+                        "sHO3MhQx",
+                        "LNytGWDc",
+                        "RpH8tmT1"
+                    ],
+                    "size": 2506723,
+                    "date_published": "2026-08-22T10:49:08.448386Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "gqylNTNB7Xn4VEv7",
             "pakku_links": [
                 "KUzyUQL3kU9eO1Yj",
@@ -2610,6 +2784,43 @@
                     "required_dependencies": [],
                     "size": 1292887,
                     "date_published": "2026-08-07T00:56:44.073062Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Uiwypj9dnshCiUqS",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "strut-your-stuff"
+            },
+            "name": {
+                "modrinth": "Strut Your Stuff (Struts)"
+            },
+            "id": {
+                "modrinth": "sHO3MhQx"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "struts-1.3.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/sHO3MhQx/versions/Nrn7hYca/struts-1.3.0.jar",
+                    "id": "Nrn7hYca",
+                    "parent_id": "sHO3MhQx",
+                    "hashes": {
+                        "sha512": "81837e97ebc081bd4afb0d456837e7b598f79c37b1d31874e7550d4a2f42f8c864587f9a04f44f14f175e9cf69884cd2e593fa1fb315727040affa1d69c2df06",
+                        "sha1": "354d494b66010c2d9e44e63d46efca7ba6c0a97e"
+                    },
+                    "required_dependencies": [],
+                    "size": 215558,
+                    "date_published": "2026-07-30T12:19:12.934464Z"
                 }
             ]
         },
