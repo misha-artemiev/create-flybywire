@@ -2478,7 +2478,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "create_stats-1.2.81.jar",
+                    "file_name": "create_stats-1.4.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -2486,16 +2486,18 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/inKFQSzo/versions/4RwgUE5P/create_stats-1.2.81.jar",
-                    "id": "4RwgUE5P",
+                    "url": "https://cdn.modrinth.com/data/inKFQSzo/versions/cM0zZQSN/create_stats-1.4.1.jar",
+                    "id": "cM0zZQSN",
                     "parent_id": "inKFQSzo",
                     "hashes": {
-                        "sha512": "1176c7e38936e25b18d82dd51d2e7c52d2d51ed2b4ed927779af8fa31006fd10f0c026b9bd267a1d46572d05683256ad2eee479fc1dc335d1f283a8ae8d5c81c",
-                        "sha1": "f0804e726575bb43898e363a71e43e131305c1ea"
+                        "sha512": "75c65e116fc159745a3de7e2694769aab3de4480175077829421e0812b06f1e9f0b43a2324411a372924ffa93ca4f69790744a4478604a6bc2cebf19671981bf",
+                        "sha1": "3bf48f7dba1f6b79859c17cc4afc264e1fcf5fa7"
                     },
-                    "required_dependencies": [],
-                    "size": 9368120,
-                    "date_published": "2026-08-25T15:26:21.570672Z"
+                    "required_dependencies": [
+                        "LNytGWDc"
+                    ],
+                    "size": 9374981,
+                    "date_published": "2026-08-29T00:08:39.073262Z"
                 }
             ]
         },
@@ -3390,24 +3392,24 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "sodium-neoforge-0.8.13-beta.2+mc1.21.1.jar",
+                    "file_name": "sodium-neoforge-0.8.13+mc1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
                     "loaders": [
                         "neoforge"
                     ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/jfHZ5pyN/sodium-neoforge-0.8.13-beta.2+mc1.21.1.jar",
-                    "id": "jfHZ5pyN",
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/uMOpc5uV/sodium-neoforge-0.8.13+mc1.21.1.jar",
+                    "id": "uMOpc5uV",
                     "parent_id": "AANobbMI",
                     "hashes": {
-                        "sha512": "6e9273862fb3397b5abea7ad37a65c3cd6d6bcb5cc06634d2b62b49999c00dac8972e4600e1d5b3c3936d0a92ccfad8ed4d04ed065595797d3c1e559f20aa08c",
-                        "sha1": "af0f6e28638b1e6696d0501dd8496d230e9519ae"
+                        "sha512": "4f537696af95411e9daf15795fb5fcbc49913d488a96fa912fa8f1d7db408710995e8a1461190f3cd0f8217bf9e35e9539176592428ed587ca2d7aa84450a390",
+                        "sha1": "1757289be21ed18db5b0d90703fa3db1b2de5693"
                     },
                     "required_dependencies": [],
-                    "size": 1292887,
-                    "date_published": "2026-08-07T00:56:44.073062Z"
+                    "size": 1292934,
+                    "date_published": "2026-08-28T20:55:02.593669Z"
                 }
             ]
         },
