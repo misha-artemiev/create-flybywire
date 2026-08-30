@@ -467,29 +467,24 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "ccpe-1.0.8-1.21.1.jar",
+                    "file_name": "ccpe-1.1.0-1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
                     "loaders": [
                         "neoforge"
                     ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/e27JVsdR/versions/cpEt3qtE/ccpe-1.0.8-1.21.1.jar",
-                    "id": "cpEt3qtE",
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/e27JVsdR/versions/vvg8hgwD/ccpe-1.1.0-1.21.1.jar",
+                    "id": "vvg8hgwD",
                     "parent_id": "e27JVsdR",
                     "hashes": {
-                        "sha512": "95ec54c767d41f1f0368f0f0a6169a88bd79bf17f2fe8b9ce51c9955f52c4af0042c3b2ef5d9eac97868526db06c56d7527ced5f47b522a2f0cfd904e4005d8b",
-                        "sha1": "f53bd389b61f2640d91470b693581937e3a7adad"
+                        "sha512": "bc5ce9ad387a7057da94038375087486eeb2aa144b7ff207bf759deb8c0fa9343f79ebbffacce845461e9f22c5f5f9f8a9fdb201da5000308770ae2bba7c37ee",
+                        "sha1": "18fd3ea288f47664bd9a5d68516af8e73bf323ce"
                     },
-                    "required_dependencies": [
-                        "T9PomCSv",
-                        "oWaK0Q19",
-                        "gu7yAYhd",
-                        "LNytGWDc"
-                    ],
-                    "size": 629567,
-                    "date_published": "2026-08-27T15:27:01.427884Z"
+                    "required_dependencies": [],
+                    "size": 758389,
+                    "date_published": "2026-08-30T17:25:26.733229Z"
                 }
             ]
         },
@@ -866,7 +861,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "directgpu-1.0.23-neoforge-1.21.1.jar",
+                    "file_name": "directgpu-1.0.24-neoforge-1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -874,16 +869,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/y2LA8uQE/versions/zsBkPErG/directgpu-1.0.23-neoforge-1.21.1.jar",
-                    "id": "zsBkPErG",
+                    "url": "https://cdn.modrinth.com/data/y2LA8uQE/versions/kxl9oeha/directgpu-1.0.24-neoforge-1.21.1.jar",
+                    "id": "kxl9oeha",
                     "parent_id": "y2LA8uQE",
                     "hashes": {
-                        "sha512": "5aeefa6ff16a0fe59b77ad8743a9c7f66971c3ddb0db0734c5c16392d2592e8ca5e5e8fa751b51ca114fa5276766ab1685d251775d496ff41b1bb463d6d63ca7",
-                        "sha1": "75b16a604caab34719037a4a3b6548c8ee9575c4"
+                        "sha512": "3cc88b55315ba7854cc3f8dfb16cdd51486480c1fe558a4653a5ff5581e04722c097ba89abae21e24964846de7933d62f0b501a86f6223cf605b4c1719a95077",
+                        "sha1": "8ab2395c136e84d3442c9e3c1caea48113ce57ed"
                     },
                     "required_dependencies": [],
-                    "size": 453850,
-                    "date_published": "2026-08-16T13:32:15.052724Z"
+                    "size": 464429,
+                    "date_published": "2026-08-30T13:08:54.618379Z"
                 }
             ]
         },
@@ -1150,7 +1145,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "create-aeronautics-bundled-1.21.1-1.3.1.jar",
+                    "file_name": "create-aeronautics-bundled-1.21.1-1.3.2.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -1158,19 +1153,19 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/Vzp221Un/create-aeronautics-bundled-1.21.1-1.3.1.jar",
-                    "id": "Vzp221Un",
+                    "url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/44pLdPGg/create-aeronautics-bundled-1.21.1-1.3.2.jar",
+                    "id": "44pLdPGg",
                     "parent_id": "oWaK0Q19",
                     "hashes": {
-                        "sha512": "16ba7a2c8335443bdf6ad4777737b762f09452be2dd364f801fd20b35eb581473161763699ec37eb12d1aeaf8c18cf8299b2152e24334eedcc9fe662af5bbb27",
-                        "sha1": "15d273d891578d583aa142354b63ed70f87fee62"
+                        "sha512": "dc7e8e1148fa442243889ba29412207137e1bb86206e6c92bc0a589f1374a466e93de22bdbf14f753984d86c29308fbbdc0f14a4b9618b14c0ac1666a36b46f5",
+                        "sha1": "ddbe9cbc25e8f663218aa1e9fdfc4b99f0e11e4b"
                     },
                     "required_dependencies": [
                         "T9PomCSv",
                         "LNytGWDc"
                     ],
-                    "size": 33121810,
-                    "date_published": "2026-08-17T01:13:31.645306Z"
+                    "size": 33123131,
+                    "date_published": "2026-08-29T18:45:12.190765Z"
                 }
             ]
         },
@@ -2105,7 +2100,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "create-enchantment-industry-2.5.3.jar",
+                    "file_name": "create-enchantment-industry-2.5.3b.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -2113,19 +2108,19 @@
                         "neoforge"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/Y6ZGWuZr/create-enchantment-industry-2.5.3.jar",
-                    "id": "Y6ZGWuZr",
+                    "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/ASyjJTVL/create-enchantment-industry-2.5.3b.jar",
+                    "id": "ASyjJTVL",
                     "parent_id": "JWGBpFUP",
                     "hashes": {
-                        "sha512": "6a42945b32a6231e6a62375d44e5cfdca21456301362c11ca3cc65784dd2b238ac4686b59192c5da1f02e7c16b4c6e5c04f46c45cb45058712c7ad5706c3854d",
-                        "sha1": "91efc293e6fbdc20a4ef50a27f3ab5b593d480d1"
+                        "sha512": "790b80911610279af6a189d17e49f7d4c30d4646117f4208f230b15a58432873767e699afb02a4e6cdedfb104252e3c729f7191ff7f2748fde405d0f7653743c",
+                        "sha1": "f39af237b8bff853a89e8784518bdc36ba54a32e"
                     },
                     "required_dependencies": [
                         "LNytGWDc",
                         "dzb1a5WV"
                     ],
-                    "size": 1606404,
-                    "date_published": "2026-08-22T11:58:26.167586Z"
+                    "size": 1606407,
+                    "date_published": "2026-08-29T16:49:51.448316Z"
                 }
             ]
         },
@@ -2274,7 +2269,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "pipesnphysics-3.1.1.jar",
+                    "file_name": "pipesnphysics-3.2.0.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -2282,18 +2277,18 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/CuAT8bVS/versions/FdXICQHQ/pipesnphysics-3.1.1.jar",
-                    "id": "FdXICQHQ",
+                    "url": "https://cdn.modrinth.com/data/CuAT8bVS/versions/C4cTTHQR/pipesnphysics-3.2.0.jar",
+                    "id": "C4cTTHQR",
                     "parent_id": "CuAT8bVS",
                     "hashes": {
-                        "sha512": "c9e242a5a6dc30e278548aa68ac4257f9556b877dd8cbc5482db928544f5ffa75f9a0166f94b5dc0ba3cc8e27fc431714315165c7de6325b9218b12c4ea8c756",
-                        "sha1": "8987a59724a2cd139903f654cbaf5aaa18c1f3e8"
+                        "sha512": "4ad4d2b7e16ba162103df0ef632897528834193bf909d623c20ca94816bd5dd32d3b8f437a41b0792ada936f6d332e55e0d5c9562bbabc76f1c100a6214c15b5",
+                        "sha1": "54fdea6d4729cbb1919d71a0915a617892bf8749"
                     },
                     "required_dependencies": [
                         "LNytGWDc"
                     ],
-                    "size": 745097,
-                    "date_published": "2026-08-26T17:08:04.407256Z"
+                    "size": 776396,
+                    "date_published": "2026-08-30T08:21:58.444956Z"
                 }
             ]
         },
@@ -2402,7 +2397,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "powerchip-2.0.6.jar",
+                    "file_name": "powerchip-2.1.0.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -2410,18 +2405,18 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/xjCy9IA8/versions/esRymPbD/powerchip-2.0.6.jar",
-                    "id": "esRymPbD",
+                    "url": "https://cdn.modrinth.com/data/xjCy9IA8/versions/SGG3pI7R/powerchip-2.1.0.jar",
+                    "id": "SGG3pI7R",
                     "parent_id": "xjCy9IA8",
                     "hashes": {
-                        "sha512": "a069a3725ff6b647b7e65a765652d4f75ededde26db55ad9e1010d6086340b076b1f8b9fe4c19257324eff6628a5658442d35760e8bf6bf4cd88f0e43008646e",
-                        "sha1": "7ff492508287f8b2a0f820cdd60c859284572daa"
+                        "sha512": "58fa7fb46a54a549ddb9ac83bab021c609c90b0b6d61e48510a75f2c4043992e69367fff2f6d4a0226c6d25034e55233bcd01a1798ad86777a068523ffdf9335",
+                        "sha1": "7cf771dca30f1d7b2a42c8aa03504991fd8d9265"
                     },
                     "required_dependencies": [
                         "eWiBLJ9R"
                     ],
-                    "size": 142755,
-                    "date_published": "2026-08-24T12:14:37.641928Z"
+                    "size": 152547,
+                    "date_published": "2026-08-30T15:23:04.048866Z"
                 }
             ]
         },
