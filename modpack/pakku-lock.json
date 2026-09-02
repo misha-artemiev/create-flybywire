@@ -102,7 +102,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "aero_cam_sync-1.3.6.jar",
+                    "file_name": "aero_cam_sync-1.4.0.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -110,16 +110,18 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/ZGxtWu73/versions/Q9Le9WV6/aero_cam_sync-1.3.6.jar",
-                    "id": "Q9Le9WV6",
+                    "url": "https://cdn.modrinth.com/data/ZGxtWu73/versions/UbgVQ0qd/aero_cam_sync-1.4.0.jar",
+                    "id": "UbgVQ0qd",
                     "parent_id": "ZGxtWu73",
                     "hashes": {
-                        "sha512": "9887c8923d90838035b9ab12074d369e1d243487ef2bee6c082d4888eaa7ecfd5af6b95b217215b9b553c99d23b0301beb424867e51a0cbeb4da30a54a4e607f",
-                        "sha1": "b69e4b9559ded399d44de990d88652684727f4d1"
+                        "sha512": "0af37dcf2d90c262858d07861243c0800a2aa72254a18eacf093de9a07cdaa5a51f9cfd9ca5f32a7efccf9a0936cfcda0ee9fbbb252b00377db21a3af6dffb4b",
+                        "sha1": "d2abb5fee04cfc0b71aace1cba9fd426e49babf4"
                     },
-                    "required_dependencies": [],
-                    "size": 686062,
-                    "date_published": "2026-07-31T19:39:11.027124Z"
+                    "required_dependencies": [
+                        "T9PomCSv"
+                    ],
+                    "size": 912604,
+                    "date_published": "2026-08-30T19:29:53.386583Z"
                 }
             ]
         },
@@ -263,7 +265,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "azimuth-1.4.7.jar",
+                    "file_name": "azimuth-1.4.8.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -271,18 +273,18 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/RpH8tmT1/versions/O3caj5PW/azimuth-1.4.7.jar",
-                    "id": "O3caj5PW",
+                    "url": "https://cdn.modrinth.com/data/RpH8tmT1/versions/82WgkpfK/azimuth-1.4.8.jar",
+                    "id": "82WgkpfK",
                     "parent_id": "RpH8tmT1",
                     "hashes": {
-                        "sha512": "887d0217ae13ccda5f9acb8c240d8f48912da97e3a08c61bd696cc8d05bedf7ab123cb1919c0745158c9cc5a28d80878bed242d57f88a1d691d926bbc3f1a42a",
-                        "sha1": "b2265446be3b386fa4dc0c9f7feed8804c741d99"
+                        "sha512": "9faf97c9b6eb38bf3187977e660e89530c2a6e862f50380b4628e839d89cee27f1b32ff94d1283200796d816d3325c2dbd00a0d3f49898a50c3f235e0b02038c",
+                        "sha1": "329b649c23a84dcbcbc2172df38a5d87afe94cf1"
                     },
                     "required_dependencies": [
                         "LNytGWDc"
                     ],
-                    "size": 142951,
-                    "date_published": "2026-08-16T10:55:22.682046Z"
+                    "size": 142919,
+                    "date_published": "2026-08-31T19:19:34.779135Z"
                 }
             ]
         },
@@ -467,7 +469,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "ccpe-1.1.0-1.21.1.jar",
+                    "file_name": "ccpe-1.1.1-1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -475,16 +477,21 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/e27JVsdR/versions/vvg8hgwD/ccpe-1.1.0-1.21.1.jar",
-                    "id": "vvg8hgwD",
+                    "url": "https://cdn.modrinth.com/data/e27JVsdR/versions/sz5TFpkl/ccpe-1.1.1-1.21.1.jar",
+                    "id": "sz5TFpkl",
                     "parent_id": "e27JVsdR",
                     "hashes": {
-                        "sha512": "bc5ce9ad387a7057da94038375087486eeb2aa144b7ff207bf759deb8c0fa9343f79ebbffacce845461e9f22c5f5f9f8a9fdb201da5000308770ae2bba7c37ee",
-                        "sha1": "18fd3ea288f47664bd9a5d68516af8e73bf323ce"
+                        "sha512": "47c1d6a50ac0db0726bfc083c6882b40e8abda8bbc2a7a71f465ba80441b07cf9582803dccbe95210da9515fe4bad58c838f72f09e36666c7dfc0b4c32efb19f",
+                        "sha1": "3ea154982f3afe0062f5cef3240db25b4306584e"
                     },
-                    "required_dependencies": [],
-                    "size": 758389,
-                    "date_published": "2026-08-30T17:25:26.733229Z"
+                    "required_dependencies": [
+                        "oWaK0Q19",
+                        "LNytGWDc",
+                        "T9PomCSv",
+                        "gu7yAYhd"
+                    ],
+                    "size": 830855,
+                    "date_published": "2026-09-01T14:50:58.085148Z"
                 }
             ]
         },
@@ -585,7 +592,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "hudglassescc-0.1.3-beta.jar",
+                    "file_name": "hudglassescc-0.1.4-beta.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -593,16 +600,16 @@
                         "neoforge"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/HAKfjoUe/versions/6p53WFd6/hudglassescc-0.1.3-beta.jar",
-                    "id": "6p53WFd6",
+                    "url": "https://cdn.modrinth.com/data/HAKfjoUe/versions/BTQbUFYC/hudglassescc-0.1.4-beta.jar",
+                    "id": "BTQbUFYC",
                     "parent_id": "HAKfjoUe",
                     "hashes": {
-                        "sha512": "9fa42245a16798238121bb24722fa75a02de9a85230e4727be6f407015f103be38518e7893f5603eea355fe500ef54d527f1a48ad3d3167152dd6a71a575559d",
-                        "sha1": "4f75479867b75376df7c32e74606e7d5f775bcd7"
+                        "sha512": "ec824e15f7fa0b0c9b2e64ecce4715b867173872ba1323314e6761da0befd75fac1c80739ab1adc0d4cc0db7c4488f735f4f605852939e8bf4e6c74ada22efb8",
+                        "sha1": "853d469a6b81cd5787472101dc1be3d440113733"
                     },
                     "required_dependencies": [],
-                    "size": 144145,
-                    "date_published": "2026-07-18T14:48:13.658912Z"
+                    "size": 155132,
+                    "date_published": "2026-09-01T19:12:14.269686Z"
                 }
             ]
         },
@@ -1296,7 +1303,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "create_aeronautics_transmission_linkage-0.2.7.jar",
+                    "file_name": "create_aeronautics_transmission_linkage-0.2.8.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -1304,16 +1311,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Y1dq5ioE/versions/VtjOWtYD/create_aeronautics_transmission_linkage-0.2.7.jar",
-                    "id": "VtjOWtYD",
+                    "url": "https://cdn.modrinth.com/data/Y1dq5ioE/versions/FCZZ3ED4/create_aeronautics_transmission_linkage-0.2.8.jar",
+                    "id": "FCZZ3ED4",
                     "parent_id": "Y1dq5ioE",
                     "hashes": {
-                        "sha512": "41fc5c767c0802d727455413a252dd6c0b97f78722ea563f8b05bbc64164b2ddb64e2dc50b0d89f54da253d57cd67916ef29a7fd744919803fa814819d3279dc",
-                        "sha1": "dee7a9879b27db5be4831d140e39aba3a051e3ae"
+                        "sha512": "af637fc793448928354cb453f794ce08fa14694250a377ae67d4a2d40db7c4a00adcb9f980387947c264e74c575939e9f525ef1f1443b8471c10bf72c52000a5",
+                        "sha1": "bccaf90652905ae5f28dcc7e1134099d188ca020"
                     },
                     "required_dependencies": [],
-                    "size": 733957,
-                    "date_published": "2026-08-24T09:45:58.585517Z"
+                    "size": 734744,
+                    "date_published": "2026-09-02T06:15:43.417859Z"
                 }
             ]
         },
@@ -1713,7 +1720,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "create_avionics-neoforge-1.21.1-0.5.2.jar",
+                    "file_name": "create_avionics-neoforge-1.21.1-0.6.0.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -1721,20 +1728,20 @@
                         "neoforge"
                     ],
                     "release_type": "alpha",
-                    "url": "https://cdn.modrinth.com/data/h4nsLvjf/versions/sWhAueMC/create_avionics-neoforge-1.21.1-0.5.2.jar",
-                    "id": "sWhAueMC",
+                    "url": "https://cdn.modrinth.com/data/h4nsLvjf/versions/9siqVCcu/create_avionics-neoforge-1.21.1-0.6.0.jar",
+                    "id": "9siqVCcu",
                     "parent_id": "h4nsLvjf",
                     "hashes": {
-                        "sha512": "36c75651998f21dfd66bbdcb02f2a52291504b15f5f8cf3f77ed62c2ac38d3543270c3e2b8d2cb304555f98b11a6de28accf371b8d9e67f6e29d5b60917bb539",
-                        "sha1": "79b15d3375f65d9a4b323b36435309cf4b4a2457"
+                        "sha512": "da3a1cc9333db95781d466725939fd29a467cad21bea76df37e024b2bc0cd1a5c35c5d07ede17f101a2572cf96ba87555e506a8ad669ad8987a1e747fdad7ab6",
+                        "sha1": "a6b59ae72dae7e54b98fc88825fa6106d68298e4"
                     },
                     "required_dependencies": [
+                        "LNytGWDc",
                         "gu7yAYhd",
-                        "T9PomCSv",
-                        "LNytGWDc"
+                        "T9PomCSv"
                     ],
-                    "size": 155868,
-                    "date_published": "2026-07-25T17:20:59.012467Z"
+                    "size": 170122,
+                    "date_published": "2026-09-01T14:11:14.149829Z"
                 }
             ]
         },
@@ -1759,7 +1766,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "bits_n_bobs-2.2.7.jar",
+                    "file_name": "bits_n_bobs-2.2.9.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -1767,20 +1774,20 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/T8bvmqVZ/versions/vkYOCznD/bits_n_bobs-2.2.7.jar",
-                    "id": "vkYOCznD",
+                    "url": "https://cdn.modrinth.com/data/T8bvmqVZ/versions/wkaZQqvJ/bits_n_bobs-2.2.9.jar",
+                    "id": "wkaZQqvJ",
                     "parent_id": "T8bvmqVZ",
                     "hashes": {
-                        "sha512": "b8b73a196ca04e2a9dec9318e4f73396199639996511cbf90cccb5e0762bd97710f3a54b604884c6ee493ff3d3101109d20030f087199729491fe2f531698089",
-                        "sha1": "3b169d9c3837fd557f2a691165dcde76cc5d11f9"
+                        "sha512": "a00e93cc975b83f89cf15a67b45374e27977d5087f647564433d1f5ac797572aa2de5f14cd2d923b2580800ac84300b298489f65967e82aef451e57222da2ba1",
+                        "sha1": "8a1d8a44396ebaf35299d6552a7b226949d3d811"
                     },
                     "required_dependencies": [
                         "sHO3MhQx",
-                        "LNytGWDc",
-                        "RpH8tmT1"
+                        "RpH8tmT1",
+                        "LNytGWDc"
                     ],
-                    "size": 2506723,
-                    "date_published": "2026-08-22T10:49:08.448386Z"
+                    "size": 2500497,
+                    "date_published": "2026-09-01T08:59:57.822123Z"
                 }
             ]
         },
@@ -1931,7 +1938,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "create_connected-1.3.2-mc1.21.1.jar",
+                    "file_name": "create_connected-1.3.3-mc1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -1939,18 +1946,18 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/klOWKza5/create_connected-1.3.2-mc1.21.1.jar",
-                    "id": "klOWKza5",
+                    "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/Xe7EqzfQ/create_connected-1.3.3-mc1.21.1.jar",
+                    "id": "Xe7EqzfQ",
                     "parent_id": "Vg5TIO6d",
                     "hashes": {
-                        "sha512": "b07bfbc5ebf0ad63b1db5f7215f0e11490f0263623e344b09a63116d84199a49c7f916610410262ddb640e60017d08e89f3363ada38a6219ac6a5b2fc19322e0",
-                        "sha1": "920de05b13c32fe1417d0aec0615057aa480cc8d"
+                        "sha512": "485675693980a266611669857fa9cd348e2a29140b87bf0a8ab3e13c3591422cceaa36b7a2eb90084d35ec1868c8eec9f924383bb4dada2dddcb72e9f09361b0",
+                        "sha1": "96ae45fa44cd7028a31b9613cb672009e811b145"
                     },
                     "required_dependencies": [
                         "LNytGWDc"
                     ],
-                    "size": 6779410,
-                    "date_published": "2026-06-22T10:21:15.684165Z"
+                    "size": 6786783,
+                    "date_published": "2026-08-31T12:36:38.618140Z"
                 }
             ]
         },
@@ -2870,7 +2877,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "ldlib2-neoforge-1.21.1-2.2.37-all.jar",
+                    "file_name": "ldlib2-neoforge-1.21.1-2.2.38.a-all.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -2879,16 +2886,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/B1CBVXHX/versions/bpcbGDy4/ldlib2-neoforge-1.21.1-2.2.37-all.jar",
-                    "id": "bpcbGDy4",
+                    "url": "https://cdn.modrinth.com/data/B1CBVXHX/versions/GxTKOEhs/ldlib2-neoforge-1.21.1-2.2.38.a-all.jar",
+                    "id": "GxTKOEhs",
                     "parent_id": "B1CBVXHX",
                     "hashes": {
-                        "sha512": "46114d746ed045bf9bfdab87877436bc24f3120362b89256aa4749ff794691988f58b694208aca4297f5042fd24cb3387590b9bc20b28d708c6e246aaa669c7b",
-                        "sha1": "fd914403c69e451cd7446908d5730cac7412bf54"
+                        "sha512": "838ea33b419a0aa028bcc4c515a7966d70392c40a459553a87efb29fd3813afb0d7c5abb8f919d96a570d4e78a57b1161ab99c4c5432c7e39509ff1d08b47331",
+                        "sha1": "678527373f2f4707f60478c3808ed4ad68ac3d8a"
                     },
                     "required_dependencies": [],
-                    "size": 7215985,
-                    "date_published": "2026-08-24T14:50:48.966496Z"
+                    "size": 7330470,
+                    "date_published": "2026-08-31T15:28:45.811308Z"
                 }
             ]
         },
