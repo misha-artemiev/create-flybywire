@@ -1461,48 +1461,6 @@
             ]
         },
         {
-            "pakku_id": "O3aFcUemoNNlMzhI",
-            "pakku_links": [
-                "KUzyUQL3kU9eO1Yj"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "create-frequency"
-            },
-            "name": {
-                "modrinth": "Create Frequency"
-            },
-            "id": {
-                "modrinth": "jkyv18V9"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "create_frequency-0.7.0+mc1.21.1-neoforge.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/jkyv18V9/versions/5fmCO7JQ/create_frequency-0.7.0+mc1.21.1-neoforge.jar",
-                    "id": "5fmCO7JQ",
-                    "parent_id": "jkyv18V9",
-                    "hashes": {
-                        "sha512": "44e9fead50c965ebcd711f0d9bd148fd6f0e31eaa6093eaf8938b018bc5f3a62176b7e8b1085fb7a1bf4406ec572041fc93644dd9823bc7abec73b3174942ac8",
-                        "sha1": "fd6a745a9f217f4a60eeb6eda720b641f35054fb"
-                    },
-                    "required_dependencies": [
-                        "LNytGWDc"
-                    ],
-                    "size": 1048743,
-                    "date_published": "2026-08-20T12:17:28.114399Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "zQNFP5WU7bYT2xYc",
             "pakku_links": [
                 "KUzyUQL3kU9eO1Yj"
