@@ -1093,6 +1093,50 @@
             ]
         },
         {
+            "pakku_id": "ueUGDw0pRgUe8kJw",
+            "pakku_links": [
+                "KUzyUQL3kU9eO1Yj",
+                "gqylNTNB7Xn4VEv7"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "coasters-engineered"
+            },
+            "name": {
+                "modrinth": "Coasters: Engineered"
+            },
+            "id": {
+                "modrinth": "guKf87OB"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "coastersengineered-1.21.1-1.1.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/guKf87OB/versions/CamxurQC/coastersengineered-1.21.1-1.1.0.jar",
+                    "id": "CamxurQC",
+                    "parent_id": "guKf87OB",
+                    "hashes": {
+                        "sha512": "134f88b4f1711663472a9d00dda4fc1798a4b72a9efff84f99045d70c72a085df9ddd3a15a508c6255bff062abffbaf86a26186f7dc9456866e6f4fd8b2f18e2",
+                        "sha1": "3ab0d571b779fc2d4071d22b34bce22f9f85b4f1"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc",
+                        "W1ZUfWdr"
+                    ],
+                    "size": 562601,
+                    "date_published": "2026-08-29T13:49:06.105975Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "KUzyUQL3kU9eO1Yj",
             "type": "MOD",
             "side": "BOTH",
@@ -1580,36 +1624,6 @@
                     "required_dependencies": [],
                     "size": 1707765,
                     "date_published": "2026-07-23T21:50:58.293625Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "X0fKKKY6H25FB12f",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "github": "Metallurgists-of-Create/Create-TFMG-CE"
-            },
-            "name": {
-                "github": "Create-TFMG-CE"
-            },
-            "id": {
-                "github": "1324418912"
-            },
-            "export": true,
-            "files": [
-                {
-                    "type": "github",
-                    "file_name": "tfmg-1.21.1-1.2.4b-community.jar",
-                    "release_type": "release",
-                    "url": "https://github.com/Metallurgists-of-Create/Create-TFMG-CE/releases/download/v1.2.4b/tfmg-1.21.1-1.2.4b-community.jar",
-                    "id": "527536308",
-                    "parent_id": "1324418912",
-                    "hashes": {
-                        "sha256": "01a20a35db0106affcd2aaa318728e1bd1ccedf539788bddc0be7387c10f741a"
-                    },
-                    "size": 5282407,
-                    "date_published": "2026-08-24T11:49:04Z"
                 }
             ]
         },
@@ -2502,6 +2516,48 @@
                     ],
                     "size": 9374981,
                     "date_published": "2026-08-29T00:08:39.073262Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "yryjKs86OtcSQUNS",
+            "pakku_links": [
+                "KUzyUQL3kU9eO1Yj"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "tfmg-community-edition"
+            },
+            "name": {
+                "modrinth": "Create: TFMG Community Edition"
+            },
+            "id": {
+                "modrinth": "hC1xYvnS"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "tfmg-1.21.1-1.2.4b-community.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/hC1xYvnS/versions/avOMXN07/tfmg-1.21.1-1.2.4b-community.jar",
+                    "id": "avOMXN07",
+                    "parent_id": "hC1xYvnS",
+                    "hashes": {
+                        "sha512": "613cc99834d58a8830d0ba30fd9d0839f5fe4cb2298d29b66e58c90fe6504036826098e19ee264dd0fe9603d87a0e1297f8d2901287eb4ce7e11d9cdd9668ec7",
+                        "sha1": "c86ddf31e6a5eda21be5c5de7c405bb91c5a1768"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc"
+                    ],
+                    "size": 5282407,
+                    "date_published": "2026-08-24T11:54:38.101322Z"
                 }
             ]
         },
