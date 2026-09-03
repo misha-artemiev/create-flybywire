@@ -2862,6 +2862,48 @@
             ]
         },
         {
+            "pakku_id": "O4abiLduWjFIYEqQ",
+            "pakku_links": [
+                "KUzyUQL3kU9eO1Yj"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "gauged-a-wire-addon"
+            },
+            "name": {
+                "modrinth": "Gauged: A Wire Addon"
+            },
+            "id": {
+                "modrinth": "LemfA2Y5"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "gauged_wires-1.0.6a.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://cdn.modrinth.com/data/LemfA2Y5/versions/f1ywSCNc/gauged_wires-1.0.6a.jar",
+                    "id": "f1ywSCNc",
+                    "parent_id": "LemfA2Y5",
+                    "hashes": {
+                        "sha512": "f2e78ccb1b9b3c6af9769dd19c4975a7a4058c7fd93f042b8e16904f2b328244ecb1617dd3bc1f71454ae1023f42b5d8cd757b1863c0279171656d87528bac41",
+                        "sha1": "0e8a0d2d1799e0d3622373301f8f247efc00b2d1"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc"
+                    ],
+                    "size": 199350,
+                    "date_published": "2026-08-28T22:04:09.428356Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "7lkdZATCH4oqjRNO",
             "type": "MOD",
             "side": "BOTH",
