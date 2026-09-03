@@ -448,6 +448,48 @@
             ]
         },
         {
+            "pakku_id": "DVj4rAwVfeQmphVr",
+            "pakku_links": [
+                "THr1OvLViSbzOUdn"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "cb-multipart"
+            },
+            "name": {
+                "modrinth": "CB Multipart"
+            },
+            "id": {
+                "modrinth": "LmvnWWSV"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "CBMultipart-1.21.1-3.5.0.155.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/LmvnWWSV/versions/mhteXGK9/CBMultipart-1.21.1-3.5.0.155.jar",
+                    "id": "mhteXGK9",
+                    "parent_id": "LmvnWWSV",
+                    "hashes": {
+                        "sha512": "43ba1480586db6fac554e4cf5ade2f006a789a509a32f0824277e35310831d3dc7b90cee08d7baf228bb74132174dd4e41d2b1ac9dd23f9877b0969b718fa303",
+                        "sha1": "754cefc13802393862a05142f55d71669e76bc3d"
+                    },
+                    "required_dependencies": [
+                        "2gq0ALnz"
+                    ],
+                    "size": 547450,
+                    "date_published": "2025-12-01T03:03:52.541421Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "L1gzXnqGyxEJI0He",
             "pakku_links": [
                 "KUzyUQL3kU9eO1Yj",
@@ -652,6 +694,52 @@
                     ],
                     "size": 261274,
                     "date_published": "2026-07-30T07:25:39.372110Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "PBPEUnP0kAd7ux0W",
+            "pakku_links": [
+                "sVV6I1Wc0ZXxGxgj",
+                "DVj4rAwVfeQmphVr",
+                "THr1OvLViSbzOUdn"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "ccmultipartcables"
+            },
+            "name": {
+                "modrinth": "CC: Multipart Cables"
+            },
+            "id": {
+                "modrinth": "NhNFwpMg"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "ccmultipartcables-1.21.1-0.1.3.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/NhNFwpMg/versions/OwLdOuJo/ccmultipartcables-1.21.1-0.1.3.jar",
+                    "id": "OwLdOuJo",
+                    "parent_id": "NhNFwpMg",
+                    "hashes": {
+                        "sha512": "f9b9afac9ccbf4b363fa0f63e693add8580af9374a1c584ba82e2ee9d337a257a30264049ea5c7c1f2bb13cd434c69ccbc344ac0cbf28a85901d8836283649a6",
+                        "sha1": "ecbae903806d3a32b8288f14c09933f006940315"
+                    },
+                    "required_dependencies": [
+                        "gu7yAYhd",
+                        "LmvnWWSV",
+                        "2gq0ALnz"
+                    ],
+                    "size": 17216,
+                    "date_published": "2026-08-03T19:46:40.903008Z"
                 }
             ]
         },
@@ -1133,6 +1221,43 @@
                     ],
                     "size": 562601,
                     "date_published": "2026-08-29T13:49:06.105975Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "THr1OvLViSbzOUdn",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "codechicken-lib"
+            },
+            "name": {
+                "modrinth": "CodeChicken Lib"
+            },
+            "id": {
+                "modrinth": "2gq0ALnz"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "CodeChickenLib-1.21.1-4.6.1.529.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/2gq0ALnz/versions/vLDGhjNJ/CodeChickenLib-1.21.1-4.6.1.529.jar",
+                    "id": "vLDGhjNJ",
+                    "parent_id": "2gq0ALnz",
+                    "hashes": {
+                        "sha512": "acc300da463672a4091e0f48266df4a5b0704bc23e044e71ca47c3d56390d09eef3690baad8f8744d657bac8d5e02a2b4a2bb77ed0478dba9ad9b8c35901645f",
+                        "sha1": "354d850ca72568b88d67e3c903efced7e62dc90f"
+                    },
+                    "required_dependencies": [],
+                    "size": 1538382,
+                    "date_published": "2026-07-23T05:19:19.117706Z"
                 }
             ]
         },
