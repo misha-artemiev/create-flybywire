@@ -772,6 +772,50 @@
             ]
         },
         {
+            "pakku_id": "d103Z2xifKiyGi10",
+            "pakku_links": [
+                "xHxu6BCgn3lpx6Ly",
+                "sVV6I1Wc0ZXxGxgj"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "cc-tweaked-secure-boot-pki"
+            },
+            "name": {
+                "modrinth": "CC: Tweaked - Secure Boot PKI"
+            },
+            "id": {
+                "modrinth": "RELRqPbP"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "CCSecureBootPKI-1.1.0-dd36dfe.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/RELRqPbP/versions/189Lj4VX/CCSecureBootPKI-1.1.0-dd36dfe.jar",
+                    "id": "189Lj4VX",
+                    "parent_id": "RELRqPbP",
+                    "hashes": {
+                        "sha512": "e05e6e4e309056a081bb57cac957a30df80d22eed694d3db97a2a892aeb8e481fdfa7f6a7a329d10efe8f926823df1cfe1c661a4a7d2a62f32dd69449ad5ffb5",
+                        "sha1": "ef77cee2217d2d548a39ff6d633261a23a1aeb7f"
+                    },
+                    "required_dependencies": [
+                        "8S3qbPSr",
+                        "gu7yAYhd"
+                    ],
+                    "size": 9344847,
+                    "date_published": "2026-08-31T00:51:03.160672Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "9QCr2LySvfDkcYJn",
             "pakku_links": [
                 "sVV6I1Wc0ZXxGxgj",
