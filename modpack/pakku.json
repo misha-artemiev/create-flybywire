@@ -3,5 +3,19 @@
     "version": "3.0.0",
     "overrides": [
         "config"
-    ]
+    ],
+    "projects": {
+        "cc-tweaked-secure-boot-pki": {
+            "side": "BOTH"
+        },
+        "cc-cbc": {
+            "side": "BOTH"
+        },
+        "create": {
+            "side": "BOTH"
+        },
+        "create-tow-haul": {
+            "side": "BOTH"
+        }
+    }
 }
