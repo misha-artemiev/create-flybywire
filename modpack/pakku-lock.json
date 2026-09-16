@@ -1683,43 +1683,6 @@
             ]
         },
         {
-            "pakku_id": "iH5XqJvWMUOR453X",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "create_factory_logistics"
-            },
-            "name": {
-                "modrinth": "Create Factory Logistics"
-            },
-            "id": {
-                "modrinth": "QMGO17gm"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "create_factory_logistics-1.21.1-1.6.0-all.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/QMGO17gm/versions/4Drrlfu3/create_factory_logistics-1.21.1-1.6.0-all.jar",
-                    "id": "4Drrlfu3",
-                    "parent_id": "QMGO17gm",
-                    "hashes": {
-                        "sha512": "aeb3c3c25d8584ed6d1bb431b5090c7da6f2e0fb2119eb8b0113f4fac5d59d18879290474c84994f5e713c45a75d532b7949609c8bea50044188b2fb889950d0",
-                        "sha1": "6fa309de537afe6a29cb724ed063b5b0cfc2bcb5"
-                    },
-                    "required_dependencies": [],
-                    "size": 1301344,
-                    "date_published": "2026-07-17T15:51:33.431953Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "pHHR2GYzFMQoi81t",
             "pakku_links": [
                 "HhqHXVN1w5TEqIWk"
