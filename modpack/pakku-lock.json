@@ -583,58 +583,6 @@
             ]
         },
         {
-            "pakku_id": "cYZbIEusvLg17bTY",
-            "pakku_links": [
-                "j7zNVGFsSvm7EBKy",
-                "dY0QJYCRGOWYmyfq",
-                "A8soI9GouDPIzmVZ",
-                "HhqHXVN1w5TEqIWk",
-                "8JdADXvQKzbLC14k",
-                "shs6z30X1BRyJQiw"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "cc-aeroworks"
-            },
-            "name": {
-                "modrinth": "CC-Aeroworks"
-            },
-            "id": {
-                "modrinth": "YJqoniYI"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "cc-aeroworks-1.3.0.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/YJqoniYI/versions/kS8mCIx0/cc-aeroworks-1.3.0.jar",
-                    "id": "kS8mCIx0",
-                    "parent_id": "YJqoniYI",
-                    "hashes": {
-                        "sha512": "274252ab91dbd8bb2d8da56bbdf052323ba518ff53452da8e9a5f9a73094b77b99d7bf023ec747d5b979c4bb830c83911b9fa673bc9b5d10bd25f6a7902fe259",
-                        "sha1": "2be89fde06296e436c7afcc1def414679aee6e53"
-                    },
-                    "required_dependencies": [
-                        "ordsPcFz",
-                        "T9PomCSv",
-                        "gu7yAYhd",
-                        "LNytGWDc",
-                        "P26k79kP",
-                        "oWaK0Q19"
-                    ],
-                    "size": 1825105,
-                    "date_published": "2026-08-18T17:57:09.595748Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "XI1912Rvj02NzBah",
             "pakku_links": [
                 "A8soI9GouDPIzmVZ"
@@ -915,7 +863,7 @@
                 "A8soI9GouDPIzmVZ"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "cc-tweaked-secure-boot-pki"
             },
@@ -997,7 +945,7 @@
         {
             "pakku_id": "KmoeHf3GRaCzP6br",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "cc-cbc"
             },
@@ -1316,7 +1264,7 @@
         {
             "pakku_id": "HhqHXVN1w5TEqIWk",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "create"
             },
@@ -1939,50 +1887,6 @@
             ]
         },
         {
-            "pakku_id": "8JdADXvQKzbLC14k",
-            "pakku_links": [
-                "dY0QJYCRGOWYmyfq",
-                "HhqHXVN1w5TEqIWk"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "create-aeroworks"
-            },
-            "name": {
-                "modrinth": "Create: Aeroworks"
-            },
-            "id": {
-                "modrinth": "P26k79kP"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "aeroworks-1.5.0.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/P26k79kP/versions/6kk7ruR3/aeroworks-1.5.0.jar",
-                    "id": "6kk7ruR3",
-                    "parent_id": "P26k79kP",
-                    "hashes": {
-                        "sha512": "d79435aaf9c8d8697d1cb5a95b2189ab00ac1387dcbcdc0fbd701a25a22678eba2107e55b8da47bf0089282280ee2b3ff36418d9d7bda744b210d5fa5f4ca697",
-                        "sha1": "0dffcd74781e2f7d0495c4aad1165eb3473476ec"
-                    },
-                    "required_dependencies": [
-                        "T9PomCSv",
-                        "LNytGWDc"
-                    ],
-                    "size": 790152,
-                    "date_published": "2026-08-27T00:05:18.607121Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "mxhbJrSWjC0pErdC",
             "pakku_links": [
                 "HhqHXVN1w5TEqIWk",
@@ -2414,6 +2318,48 @@
                     ],
                     "size": 95748,
                     "date_published": "2025-11-28T10:15:08.925018Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "4s0vVZaHoT0nnIbG",
+            "pakku_links": [
+                "HhqHXVN1w5TEqIWk"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "deployer"
+            },
+            "name": {
+                "modrinth": "Create: Deployer API"
+            },
+            "id": {
+                "modrinth": "OZhUIuou"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "deployer-0.1.3.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/OZhUIuou/versions/ltYnbVvP/deployer-0.1.3.jar",
+                    "id": "ltYnbVvP",
+                    "parent_id": "OZhUIuou",
+                    "hashes": {
+                        "sha512": "cc861ddf24ac456fcc1e7b53af06771a32b0f1b733877a98ea48140481f983d8f008118a22ccb4c78570a41ca208a298412873d87f9e54dacd8c4af6db0f9f64",
+                        "sha1": "e3a39672f10f2d141ef87e69fd1615042c4985d3"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc"
+                    ],
+                    "size": 2022337,
+                    "date_published": "2026-09-03T22:57:43.541115Z"
                 }
             ]
         },
@@ -3545,7 +3491,7 @@
         {
             "pakku_id": "trfLtIDHmHZ3rBob",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "create-tow-haul"
             },
@@ -4635,6 +4581,43 @@
                     "required_dependencies": [],
                     "size": 1007487,
                     "date_published": "2026-09-05T08:59:26.715536Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "DbqegQePSFFuPwmp",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "petrolpark"
+            },
+            "name": {
+                "modrinth": "Petrolpark's Library"
+            },
+            "id": {
+                "modrinth": "ik2WZkTZ"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "petrolpark-1.21.1-1.5.11.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/ik2WZkTZ/versions/oTAOaxiw/petrolpark-1.21.1-1.5.11.jar",
+                    "id": "oTAOaxiw",
+                    "parent_id": "ik2WZkTZ",
+                    "hashes": {
+                        "sha512": "4f739b42c9a0fc89c044e1299ab76e363fefbd7267a256b3d2679431748134979d66d7e81d8982be44debf4deb8d19e5358bd2ff28e91e5299bc70b08df9fa7f",
+                        "sha1": "967edc04590d24232bfe45faa8c3ee66bface203"
+                    },
+                    "required_dependencies": [],
+                    "size": 7081034,
+                    "date_published": "2026-09-14T08:59:39.836987Z"
                 }
             ]
         },
