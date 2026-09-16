@@ -3,15 +3,5 @@
     "version": "3.0.0",
     "overrides": [
         "config"
-    ],
-    "projects": {
-        "Metallurgists-of-Create/Create-TFMG-CE": {
-            "type": "MOD",
-            "side": "BOTH",
-            "export": true
-        },
-        "ccsecureboot": {
-            "side": "BOTH"
-        }
-    }
+    ]
 }
